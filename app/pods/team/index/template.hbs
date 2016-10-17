@@ -16,7 +16,7 @@
     </p>
 
     <ul class="team__list">
-      {{#each model.investment as |person|}}
+      {{#each investment as |person|}}
         <li class="team__list__item">
           {{#link-to  "team.view" person class="team__list__item__photo"}}
             <img src="/images/team/{{person.image}}.jpg">
@@ -36,7 +36,7 @@
       </p>
 
       <ul class="team__list">
-        {{#each model.sourcing as |person|}}
+        {{#each sourcing as |person|}}
           <li class="team__list__item">
             {{#link-to  "team.view" person class="team__list__item__photo"}}
               <img src="/images/team/{{person.image}}.jpg">
@@ -56,7 +56,7 @@
     </p>
 
     <ul class="team__list">
-      {{#each model.administration as |person|}}
+      {{#each admin as |person|}}
         <li class="team__list__item">
           {{#link-to  "team.view" person class="team__list__item__photo"}}
             <img src="/images/team/{{person.image}}.jpg">
