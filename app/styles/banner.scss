@@ -94,3 +94,15 @@
     }
   }
 }
+
+@media (max-width: 450px) {
+  .banner__content__navigation__links {
+    display: block;
+    text-align: center;
+    line-height: 40px;
+
+    &__item {
+      margin-right: 0px;
+    }
+  }
+}
