@@ -1,0 +1,46 @@
+@keyframes banner--show {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+@keyframes banner--show-intro {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  15% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 0.85;
+    transform: translateY(0px);
+  }
+}
+
+
+@keyframes banner--show-call-to-action {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  30% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}

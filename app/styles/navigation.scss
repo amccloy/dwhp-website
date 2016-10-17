@@ -1,0 +1,58 @@
+.navigation {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  line-height: 65px;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
+
+  &__sizer {
+    max-width: 950px;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  &__logo {
+    width: 65px;
+    height: 65px;
+    display: inline-block;
+    background: url('/images/dwhp-logo.png') no-repeat center center;
+    background-size: 100%;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    cursor: pointer;
+    transition: transform 0.2s;
+
+    &:hover {
+      transform: scale(1.07);
+    }
+  }
+
+  &__links {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: flex;
+    list-style: none;
+    margin: 0;
+
+    &__item {
+      margin-left: 30px;
+
+      &__link {
+        display: block;
+        color: #ffffff;
+
+        &:hover {
+          color: #fff3ba;
+        }
+
+        &.active {
+          color: #ffec94;
+        }
+      }
+    }
+  }
+}

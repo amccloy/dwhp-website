@@ -1,0 +1,32 @@
+<div class="app-background">
+  <div class="app-sizer">
+
+    <div class="navigation">
+      <div class="navigation__sizer">
+        {{#link-to "index" class="navigation__logo"}}
+        {{/link-to}}
+
+        <ul class="navigation__links">
+          <li class="navigation__links__item">
+            {{link-to "Team" "team" class="navigation__links__item__link"}}
+          </li>
+          <li class="navigation__links__item">
+            {{link-to "Approach" "approach" class="navigation__links__item__link"}}
+          </li>
+          <li class="navigation__links__item">
+            {{link-to "Companies" "companies" class="navigation__links__item__link"}}
+          </li>
+          <li class="navigation__links__item">
+            {{link-to "Contact" "contact" class="navigation__links__item__link"}}
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    {{outlet}}
+
+    <div class="footer">
+      DW Management Services, LLC d/b/a DW Healthcare Partners and DWHP 
+    </div>
+  </div>
+</div>
