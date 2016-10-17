@@ -6,3 +6,65 @@
     </p>
   </div>
 </div>
+
+
+<div class="team">
+  <div class="content content--sizer">
+    <h2>Investment Team</h2>
+    <p>
+      At DWHP we put our experience to work, and not just our capital, to help proven managers grow and sell their businesses. Our greatest asset is the strength of our investment team. When you partner with DWHP, you leverage more than 100 years of healthcare operating, marketing and acquisition expertise, and a deep network of industry relationships.
+    </p>
+
+    <ul class="team__list">
+      {{#each model.investment as |person|}}
+        <li class="team__list__item">
+          {{#link-to  "team.view" person class="team__list__item__photo"}}
+            <img src="/images/team/{{person.image}}.jpg">
+          {{/link-to}}
+          {{link-to person.name "team.view" person class="team__list__item__name"}}
+          <div class="team__list__item__title">{{person.title}}</div>
+        </li>
+      {{/each}}
+    </ul>
+  </div>
+
+  <div class="content--blue-block">
+    <div class="content content--sizer">
+      <h2>Investment Sourcing</h2>
+      <p>
+        Our Investment Sourcing team maintains relationships with thousands of business owners in the North American healthcare arena, and identifies hundreds of potential investment opportunities for DWHP, annually. They leverage these relationships when actively pursuing add-on acquisition opportunities for our partners, and this strategy has proven to be an edge on growth for all of our platform investments.
+      </p>
+
+      <ul class="team__list">
+        {{#each model.sourcing as |person|}}
+          <li class="team__list__item">
+            {{#link-to  "team.view" person class="team__list__item__photo"}}
+              <img src="/images/team/{{person.image}}.jpg">
+            {{/link-to}}
+            {{link-to person.name "team.view" person class="team__list__item__name"}}
+            <div class="team__list__item__title">{{person.title}}</div>
+          </li>
+        {{/each}}
+      </ul>
+    </div>
+  </div>
+
+  <div class="content content--sizer">
+    <h2>Administration</h2>
+    <p>
+      DWHP has a talented group of professionals that manage and support our offices in Toronto, Ontario and Park City, Utah.
+    </p>
+
+    <ul class="team__list">
+      {{#each model.administration as |person|}}
+        <li class="team__list__item">
+          {{#link-to  "team.view" person class="team__list__item__photo"}}
+            <img src="/images/team/{{person.image}}.jpg">
+          {{/link-to}}
+          {{link-to person.name "team.view" person class="team__list__item__name"}}
+          <div class="team__list__item__title">{{person.title}}</div>
+        </li>
+      {{/each}}
+    </ul>
+  </div>
+</div>
