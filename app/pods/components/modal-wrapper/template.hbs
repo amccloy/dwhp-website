@@ -1,0 +1,13 @@
+{{#ember-wormhole to="modal-outlet"}}
+  <div class="modal" id={{generatedModalId}}>
+    <div class="modal__window">
+      {{#ui-prevent-scroll-outside}}
+        {{yield (hash
+          close=(action "close")
+        )}}
+      {{/ui-prevent-scroll-outside}}
+    </div>
+
+    <div class="modal__backdrop" {{action "close"}}></div>
+  </div>
+{{/ember-wormhole}}

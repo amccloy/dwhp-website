@@ -1,1 +1,48 @@
-Name: {{model.name}}
+{{#modal-wrapper onclose=(action "onclose") as |modal|}}
+  <div class="company">
+    <div class="company__primary">
+      <img src="/images/companies/{{model.image}}--large.png" class="company__primary__logo"/>
+
+      {{#each model.bio as |paragraph|}}
+        <p>{{paragraph}}</p>
+      {{/each}}
+
+      <a href="#" class="company__primary__close" {{action modal.close}}>Close</a>
+    </div>
+    <ul class="company__sidebar">
+      <li class="company__sidebar__item">
+        <h5>Name</h5>
+        <p>
+          {{model.name}}
+        </p>
+      </li>
+
+      {{#if model.location}}
+        <li class="company__sidebar__item">
+          <h5>Location</h5>
+          <p>
+            {{model.location}}
+          </p>
+        </li>
+      {{/if}}
+
+      {{#if model.invested}}
+        <li class="company__sidebar__item">
+          <h5>Invested</h5>
+          <p>
+            {{model.invested}}
+          </p>
+        </li>
+      {{/if}}
+
+      {{#if model.sold}}
+        <li class="company__sidebar__item">
+          <h5>Sold</h5>
+          <p>
+            {{model.sold}}
+          </p>
+        </li>
+      {{/if}}
+    </ul>
+  </div>
+{{/modal-wrapper}}
