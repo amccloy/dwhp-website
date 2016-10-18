@@ -1,0 +1,27 @@
+<div class="banner banner--news">
+  <div class="banner__content">
+    <h1 class="banner__content__title">News &amp; Updates</h1>
+    <p class="banner__content__intro">
+      Get the latest scoop on DWHP.
+    </p>
+  </div>
+</div>
+
+<div class="content content--sizer">
+  <div class="content__layout">
+    <div class="content__layout__primary">
+      {{#each model as |news|}}
+        <div class="news__item">
+          <div class="news__item__date">{{news.date}}</div>
+          <div class="news__item__title">
+            {{#if news.copy}}
+              {{link-to news.title "news.view" news}}
+            {{else}}
+              {{news.title}}
+            {{/if}}
+          </div>
+        </div>
+      {{/each}}
+    </div>
+  </div>
+</div>
