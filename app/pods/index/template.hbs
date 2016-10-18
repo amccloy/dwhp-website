@@ -8,3 +8,24 @@
     {{link-to "Our Approach" "approach.index" class="banner__content__call-to-action"}}
   </div>
 </div>
+
+<div class="content content--sizer">
+  <h2>News &amp; Updates</h2>
+
+  <ul class="homepage__news">
+    {{#each news as |item|}}
+      <li class="homepage__news__item">
+        {{#link-to "news.view" item class="homepage__news__item__link"}}
+          <span class="homepage__news__item__link__image">
+            <img src="/images/news/{{item.image}}.jpg">
+          </span>
+          <span class="homepage__news__item__link__title">
+            {{item.title}}
+          </span>
+        {{/link-to}}
+      </li>
+    {{/each}}
+  </ul>
+
+  {{link-to "More News" "news.index" class="homepage__more-news"}}
+</div>

@@ -9,6 +9,7 @@ export default Ember.Route.extend({
 const data = [
   {
     id: 20,
+    image: '20',
     title: "Gabriel Becher Joins DW Healthcare Partners as Principal",
     date: "August 8, 2016",
     location: "Toronto, Ontario",
@@ -21,6 +22,7 @@ const data = [
   },
   {
     id: 19,
+    image: '19',
     title: "DW Healthcare Partners announced the sale of Health and Safety Institute",
     date: "May 19, 2015",
     location: "Toronto, Ontario",
@@ -35,6 +37,7 @@ const data = [
   },
   {
     id: 18,
+    image: '18',
     title: "DW Healthcare Partners announced the sale of its portfolio company, Career Step",
     date: "February 4, 2015",
     location: "Toronto, Ontario",
