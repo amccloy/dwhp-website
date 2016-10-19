@@ -108,3 +108,10 @@
     }
   }
 }
+
+@media (max-width: 350px) {
+  .banner__content {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
