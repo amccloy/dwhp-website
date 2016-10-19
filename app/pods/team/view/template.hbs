@@ -11,6 +11,11 @@
 <div class="content content--sizer">
   <div class="content__layout">
     <div class="content__layout__primary">
+
+      <div class="content__image">
+        <img src="/images/team/{{model.image}}.jpg" alt={{model.name}}>
+      </div>
+
       {{#each model.bio as |paragraph|}}
         <p>
           {{paragraph}}
