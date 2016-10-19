@@ -122,5 +122,210 @@ const data = [
         url: "www.safetyontheweb.com"
       }
     ]
+  },
+  {
+    id: 12,
+    title: "DW Healthcare Partners Announces Closing of New $265 Million Third Fund",
+    date: "February 11, 2013",
+    location: "Park City, Utah",
+    copy: [
+      "DW Healthcare Partners, a healthcare-focused private equity firm, announced today that it has completed fundraising for its third fund (“DWHP III”), which has closed with $265 million of committed capital, exceeding its original target of $250 million. DWHP III investors are comprised of pension plans, foundations, fund of funds, high net-worth individuals and family trusts.",
+      "DWHP Co-Founder and Managing Director, Andrew Carragher said, “Through our partnerships with talented founders and management teams in our portfolio companies, we have been able to sustain a consistent track record of delivering above-average returns to our investors. As a result, we attracted a great deal of interest while fundraising for Fund III and are pleased that we have exceeded our target. We thank all of our limited partners for their commitment to our firm and look forward to forging new partnerships with innovators, founders, and management teams in the healthcare industry”.",
+      "During the fundraising period, DWHP completed three Fund III investments, totaling approximately $80 million. Through these investments, DWHP has become equity partners with Z-Medica, a leading developer and manufacturer of innovative hemostatic agents, Health & Safety Institute, one of the leading providers of safety and emergency care content and training, and Med-Pharmex, a leading veterinary drug manufacturer.",
+      "In conjunction with raising the third fund, the firm has opened an office in Toronto, Canada. This office will enable the firm to cover the Eastern Coast of the United States and Canada more efficiently. The Toronto office is staffed with Co-Founder Andrew Carragher and Managing Director Rod Boone along with six other professionals.",
+      "DWHP’s Fund III investment strategy mirrors the model of its first two funds, working as a strategic resource to founders to accelerate the growth of their businesses. DWHP’s first two funds were $88 million and $162 million in size, and resulted in 16 platform company investments in the medical device, clinical research, wholesale pharmacy and outsourced healthcare service areas. For Fund III, DWHP is seeking investments in companies with EBITDA of $4 million or more. Berchwood Partners served as placement agent for DWHP Fund III."
+    ]
+  },
+  {
+    id: 11,
+    title: "DW Healthcare Partners Invests in Z-Medica Corporation",
+    date: "September 12, 2012",
+    location: "Toronto, Ontario",
+    copy: [
+      "DW Healthcare Partners lll, LP ('DWHP'), a private equity firm focused exclusively on the healthcare industry, announced today it has invested in Z-Medica Corporation ('Z-Medica'). Founded in 2002, Z-Medica is a leading medical device company that develops, manufactures and markets innovative hemostatic agents including the QuikClot family of products that rapidly enhance the body's natural coagulation process. Financial terms of the transaction were not disclosed.",
+      "'ZMedica is an incredibly exciting company with exceptionally innovative products with applications to control bleeding. We look forward to helping further the mission of providing unique products that improve patient outcomes and ultimately save lives' said Doug Schillinger, a Managing Director with DWHP. 'Co-founders Bart Gullong and Frank Hursey built a market leader with an impressive management team which will be led going forward by Larry Hicks. Larry is a seasoned healthcare executive with decades of experience building high growth, progressive medical product companies.'",
+      "About Z-Medica Corporation",
+      "Z-Medica Corporation, based in Wallingford, CT, is a medical device company developing innovative hemostatic agents. Their mission is to develop fast acting, easy to use, hemostasis products that control bleeding, enabling their customers to save lives and improve patient outcomes. The company manufactures and markets its QuikClot family of hemostasis products for use by healthcare professionals, first responders, law enforcement officers and the military."
+    ],
+    learnMore: [
+      {
+        title: "For more information, please visit: ",
+        url: "http://www.z-medical.com"
+      }
+    ]
+  },
+  {
+    id: 10,
+    title: "Norwest Equity Partners Acquires Pentec Health.",
+    date: "June 12, 2012",
+    location: "Minneapolis, Minnesota",
+    copy: [
+      "Norwest Equity Partners ('NEP'), a leading middle market investment firm, announced today that it has acquired Pentech Holdings, Inc. ('Pentec' or the 'Company') from DW Healthcare Partners, Frazier Healthcare and Pentec management. Pentec is a leading national provider of specialty infusion services to patients who require access to complex pharmaceutical products and services outside of the hospital setting.",
+      "For nearly 30 years, Pentec has been a leading specialty infusion pharmacy focused on providing innovative and proprietary nutritional therapies for patients suffering from chronic renal failure and highly complex therapies for patients with intrathecal pumps. The Company operates two primary divisions, Renal and Specialty Infusion ('SI').",
+      "The Renal division delivers proprietary and patent-pending therapies, including PROPLETE, which are designed to address issues of protein malnutrition in patients suffering from End Stage Renal Disease. With the introduction of PROPLETE in 2008, Pentec has become the innovation leader in the renal nutrition therapy market, offering a product which delivers superior clinical outcomes compared to those achieved by traditional therapies, which have remained virtually unchanged through the years.",
+      "Pentec's Joint-Commissioned-accredited SI division is the largest and most sophisticated provider of pain and spasticity management home infusion therapy. Employing a highly differentiated nursing model and 24-hour support services 365-days a year, the SI division positions Pentec as the only provider in the U.S. to offer this level of patient care and physical support for patients with intrathecal pumps. In addition to patient-direct support, the SI division also partners with physicians to help them better care for their patients, offering real-time patient interaction and feedback via robust technology systems.",
+      "Tim Kuehl, a Partner at NEP and Pentec board member, stated, 'On behalf of the NEP partnership, we are excited to partner with Joe and his management team on this investment. As the largest provider of these specialized products and services in its market, Pentec has earned and built a tremendous reputation among its customers and referring physicians and clinicians. Joe is a terrific leader who has been able to capitalize on aggressive growth opportunities, and we are confident that there is a lot more of that to come in the future.'",
+      "Pentec's track record of financial performance and growth across both of its divisions has been consistent and strong for several years. Inc. magazine recognized Pentec as one of the 5,000 fastest-growing private companies in America in both 2010 and 2011.",
+      "Jason Sondell, a Director at NEP and Pentec board member, stated, 'This investment is a testament to NEP's healthcare investment strategy of partnering with profitable and growing companies with strong business models and management teams. Pentec is a world-class operation run by a best-in-class management team that has broad and deep experience leading pharmaceutical and healthcare businesses. With its unmatched capabilities, therapies, and services, Pentec is poised to continue to grow both organically through increased penetration within its growing markets, and through acquisitions of companies in both existing and adjacent markets.'",
+      "Additional financing for this transaction was provided by Norwest Mezzanine Partners, Madison Capital Funding, Golub Capital, Zions Bank, and CIT Group.",
+      "Simultaneous to the close of the transaction, Cosgrove assumed the role of Chairman of the Board of Directors in addition to his CEO role. Pentec employs nearly 300 people and is headquartered in Boothwyn, Pennsylvania."
+    ],
+    learnMore: [
+      {
+        title: "More information can be found on:",
+        url: "http://www.pentechealth.com"
+      }
+    ]
+  },
+  {
+    id: 9,
+    title: "DW Healthcare Partners Invests in ABC Home Medical Supply",
+    date: "January 20, 2012",
+    location: "Park City, Utah",
+    copy: [
+      "DW Healthcare Partners ll, LP ('DWHP') announced today it has invested in ABC Home Medical Supply, a distributor of catheters and other urological products.",
+      "'We are enthused to be investing in ABC Home Medical Supply. The fundamentals of the intermittent catheter space, ABC's historical dedication to servicing patients and our ability to partner with industry leading executive Keith Jones, all make DWHP very excited about this opportunity,' said Eric Keen, Vice President at DW Healthcare Partners. Keith Jones, former COO of Polymedica, will become CEO of ABC Home Medical Supply.",
+      "About ABC Home Medical Supply",
+      "ABC Home Medical Supply provides catheters and other urological products to customers with chronic medical diagnoses such as spinal cord injuries, spina bifida, multiple sclerosis and transverse myelitis. The company is headquartered in Dallas, Texas."
+    ],
+    learnMore: [
+      {
+        title: "For more information, please visit:",
+        url: "http://www.abchomemedical.com"
+      }
+    ]
+  },
+  {
+    id: 8,
+    title: "DW Healthcare Partners Announces New CEO On Heels of Increased Investment In Institutional Pharmacy Sector",
+    date: "January 28, 2011",
+    location: "Park City, Utah",
+    copy: [
+      "DW Healthcare Partners (DWHP), a leading private equity firm specializing in select healthcare sectors, announced the appointment of Bradley Lanham as the new Chief Executive Officer of BGS Holdings. Through BGS Holdings, DWHP has now completed acquisitions of institutional pharmacies specializing in long term care and hospice in growth markets including Texas, Nevada, Utah, Idaho and Colorado.",
+      "'Brad's appointment as CEO represents the pinnacle step towards consolidating and advancing our interests in the long term care and hospice pharmacy markets,' said Doug Schillinger, DWHP Managing Director and BGS Holdings Board Member. Schillinger continued, 'With the recent and largest acquisition of Spectrum Pharmacy Services in Nevada, we now have achieved five transactions that will serve as the platform for solid growth in all five markets, as well as contiguous geographic opportunities. We are thrilled that Brad shares our vision and as CEO, he will lead an executive team with tremendous experience in this space.'",
+      "A graduate of the University of Texas, Austin with a degree in Pharmacy, Lanham spent 18 years at PharMerica, the last five years as Senior Vice President of Operations, with direct responsibility for geographic regions totaling $600 million in revenues. Most recently, Lanham served at Bristol Myers Squibb, leading the drug maker's strategy to expand its presence in the Long Term Care market.",
+      "In related news, DWHP announced the transition of Drew McCartney from interim CEO of BGS Holdings back into the equity firm's Executive In Residence (EIR) program. Doug Schillinger added, 'Drew has been a superb partner assisting us in the successful evolution of our plans for BGS. From his leadership on the Spectrum acquisition to his role in selecting the New CEO, we benefited from Drew's seasoned executive skills and we look forward to his ongoing role with DWHP on future investments.'",
+      "Formed in 2002, DW Healthcare Partners is a healthcare focused private equity firm with over $250 million under management. DWHP invests in healthcare companies generating over $3 million in EBITDA. DWHP's extensive knowledge of the healthcare market allows the firm to quickly evaluate and complete growth transactions. DWHP's experience owning and operating healthcare businesses provides for an understanding for the operational and strategic issues confronting business owners and can help accelerate growth and the creation of substantial shareholder value."
+    ]
+  },
+  {
+    id: 7,
+    title: "DW Healthcare Partners (DWHP) Announces the Sale of Hill Top Research",
+    date: "January 1, 2011",
+    location: "Park City, Utah",
+    copy: [
+      "DW Healthcare Partners (DWHP), a healthcare focused private equity firm, announced today the sale of one of its portfolio companies, Hill Top Research, to BA Research India, a highly regarded Life Sciences company. Headquartered in Cincinnati, Ohio, Hill Top is a leading clinical research organization (CRO) specializing in managing phase I-IV clinical trials. It focuses on dermatology and providing efficacy testing services for personal healthcare products. Hill Top has locations in Arizona, Ohio, Florida and Canada.",
+      "The acquisition brings new talent, equipment and facilities that will improve BA Research's dermatology competencies and extend growth and expertise into personal healthcare industries. Hill Top Research will be part of the Cliantha Group."
+    ]
+  },
+  {
+    id: 6,
+    title: "BGS Pharmacy Partners, a DW Healthcare Partners Portfolio Company, Acquires Spectrum Pharmacy Services, LLC of Henderson, Nevada ",
+    date: "September 30, 2010",
+    location: "Park City, Utah",
+    copy: [
+      "BGS Holdings, the parent company of BGS Pharmacy Partners, Inc. (BGS) of Grapevine, Texas announced today the acquisition of Spectrum Pharmacy Services, LLC (Spectrum) of Henderson, Nevada for an undisclosed sum.",
+      "BGS, a portfolio company of DW Healthcare Partners (DWHP) of Park City, Utah has previously acquired four pharmacies focused on the senior care marketplace in Colorado Springs, Colorado, Boise, Idaho, Ogden, Utah and Grapevine, Texas. By acquiring Spectrum, BGS is doubling its revenue in addition to extending its presence in the mountain west region",
+      "Steve Carlton, R.Ph., Spectrum's founder commented, 'BGS was the ideal partner for Spectrum and increases our access to capital for continued expansion'. Doug Schillinger, a director of BGS and managing director of DWHP stated, 'we worked with BGS leadership to assess a number of partners, but Spectrums' locale and market presence combined with their commitment to automated customer fulfillment provides a compelling addition to the BGS network'.",
+      "BGS Pharmacy Partners, Inc. is a national, specialty care pharmacy company based in Grapevine, Texas. BGS provides consulting, management and drug dispensing to the acute and sub-acute senior care residential market. BGS' growth strategy is based on providing outstanding patient care and clinical expertise through its network of pharmacies."
+    ]
+  },
+  {
+    id: 5,
+    title: "Eric Keen Joins DW Healthcare Partners as Vice President ",
+    date: "September 20, 2010",
+    location: "Park City, Utah",
+    copy: [
+      "DW Healthcare Partners (DWHP), a healthcare focused private equity firm with over $250 million in committed capital under management, today announced that Mr. Eric Keen, former Vice President with The Riverside Company, will join DWHP's Investment Team as a Vice President.",
+      "Eric Keen brings over six years of experience in private equity to DW Healthcare Partners. Prior to joining DWHP, Eric worked for The Riverside Company for five years, most recently as a Vice President. During his tenure at Riverside, Eric completed 10 transactions and served on the board of directors of SmartComp LLC, GTI Diagnostics, Inc., Ultravolt, Inc. and Polar Windows of Canada Ltd. Prior to Riverside, Eric worked at Norwest Equity Partners, Marakon Associates and Credit Suisse First Boston. 'I am excited to join DWHP as the firm has a tremendous track record of success and is positioned for continued success due to the firm's rigorous investment discipline, creative deal origination, flexible deal structuring, niche industry focus and, most importantly, talented and great people,' said Eric Keen."
+    ]
+  },
+  {
+    id: 4,
+    title: "Bill Tella, Specialty Pharmacy Executive, Joins DW Healthcare Partners' Executive in Residence Program",
+    date: "July 30, 2010",
+    location: "Park City, Utah",
+    copy: [
+      "DW Healthcare Partners (DWHP), a healthcare focused private equity firm with over $250 million in committed capital under management, today announced that Mr. William Tella, former President of Curative Specialty Pharmacy, will join DWHP's Executive in Residence program.",
+      "DWHP's Executive in Residence program engages veteran corporate-level executives with exceptional track records to run and consult with their portfolio companies. 'We are thrilled to have Bill join our EIR program. His breadth of knowledge will enable us to identify and operate a world-class specialty pharmacy business within our portfolio,' said Andrew Carragher, Founder and Managing Director of DWHP. Bill Tella brings over 20 years of experience in the healthcare service industry to DW Healthcare. Bill has led three healthcare companies, taking one from start-up to over $225 million in revenue. As President of Curative Specialty Pharmacy, Bill was responsible for the identification and integration of over 11 acquisitions resulting in one of the largest national specialty pharmacy distributors. Curative was subsequently sold to Medco. 'I am excited to join the Executive in Residence program and to work with the DW Healthcare Team as we actively look to enter the expanding Specialty Pharmacy sector. They have an exceptional team of healthcare executives with in-depth strategic knowledge to support our expansion efforts,' said Bill Tella."
+    ]
+  },
+  {
+    id: 3,
+    title: "Joseph Cosgrove Named as E&Y Entrepreneur Of The Year Finalist in the Greater Philadelphia Region",
+    date: "May 21, 2010",
+    location: "Park City, Utah",
+    copy: [
+      ""
+    ]
+  },
+  {
+    id: 2,
+    title: "",
+    date: "",
+    location: "Park City, Utah",
+    copy: [
+      "Pentec Health Incorporated, a DW Healthcare Partners portfolio company, today announced that Joe Cosgrove, President and Chief Executive Officer, is a finalist for the Ernst & Young Entrepreneur of the Year 2010 Award in the Greater Philadelphia Region. According to Ernst & Young LLP, the awards program recognizes entrepreneurs who demonstrate extraordinary success in the areas of innovation, financial performance and personal commitment to their business and communities. Mr. Cosgrove was selected as a finalist from over 60 nominations by a panel of independent judges. Awards winners will be announced at a special gala event on June 9, 2010 at the Loews Hotel in Philadelphia.",
+      "'I'm very honored and humbled to be considered a finalist for this very prestigious award', stated Mr. Cosgrove. 'My selection is recognition of the Company's performance and the outstanding efforts of all of our associates nationwide.'",
+      "The Ernst & Young Entrepreneur of the Year awards program celebrates its 24th anniversary this year. The program has expanded to recognize business leaders in over 135 cities in 50 countries throughout the world. ",
+      "Regional award winners are eligible for consideration for the Ernst & Young LLP Entrepreneur of the Year national program. Award winners in several national categories as well as the overall national Ernst & Young Entrepreneur Of The Year award winner, will be announced at the annual awards gala in Palm Springs, California in November, 2010. The awards are the culminating event of the Ernst & Young Strategic Growth Forum, the nation's most prestigious gathering of high-growth, market-leading companies. ",
+      "About Pentec Health, Inc.",
+      "For more than 27 years, Pentec Health has been an industry leader in providing Specialty Infusion Services nationwide to patients who require access to complex pharmaceutical products and services outside of the hospital setting.",
+      "Based in Boothwyn, Pennsylvania, Pentec Health provides IPN and IDPN products and services to dialysis centers for their malnourished dialysis patients; and, as a Joint Commission accredited home care provider, offers specialty in-home infusion services for highly complex conditions that are underserved by traditional home care providers. Pentec Health offers preparation and clinical management of drug therapies, skilled nursing support, reimbursement services and unparalleled care coordination to patients with acute and chronic conditions. ",
+      "Their 'convenience of care' model is pharmacy based, nurse administered and patient and physician preferred. ",
+      "Pentec Health is widely recognized as an organization with large scale efficiencies to meet all of their patients' Specialty Infusion needs, with the rapid responsiveness of a local provider. ",
+      "About Ernst & Young's Entrepreneur Of The Year Awards Program",
+      "Ernst & Young's Entrepreneur Of The Year Award is the world's most prestigious business award for entrepreneurs. The award makes a difference through the way it encourages entrepreneurial activity amoung those with potential and recognizes the contribution of people who inspire others with their vision, leadership and achievement. As the first and only true global award of its kind, the Ernst & Young Entrepreneur Of The Year award celebrates those who are building and leading successful, growing and dynamic businesses, recognizing them through regional, national and global awards programs in more than 135 cities in 50 countries. "
+    ]
+  },
+  {
+    id: 1,
+    title: "Leading private equity firms active in the healthcare industry today announced the formation of the Healthcare Private Equity Association (HCPEA)",
+    date: "May 21, 2010",
+    location: "Park City, Utah",
+    copy: [
+      "Leading private equity firms active in the healthcare industry today announced the formation of the Healthcare Private Equity Association (HCPEA), a Chicago-based, non-profit trade association whose purpose is to support the reputation, knowledge and relationships of the healthcare private equity community. As of its founding, HCPEA's roughly forty member firms represent over $300 billion of capital under management and over 300 healthcare-focused investment professionals. ",
+      "As the first sector-focused trade association in private equity, HCPEA anticipates it will represent one of the largest groups of privately-held healthcare businesses in the U.S. Its members' approximately 500 healthcare portfolio companies have over $200 billion of combined revenue and over 750,000 employees. ",
+      "The Association's Founder and President, Brian Miller (Partner and Co-Founder of Linden Capital Partners), states, 'HCPEA is proud to have many of the most active and experienced investors as its Founding Members. This is a time of unprecedented change in the healthcare sector, and private equity will continue to play a key role in shaping the industry's future. HCPEA will support and encourage the essential investments that private equity firms direct into our healthcare economy.'" ,
+      "Founding Members of HCPEA include: Abingworth; Apax Partners; Bain Capital; Bain Capital Ventures; Baird Capital Partners; Beecken Petty O'Keefe and Company; Blackstone; Charterhouse; Cressey & Co.; DW Healthcare Partners; Enhanced Equity Fund; Ferrer Freeman; Flexpoint Ford; Frazier; Frontenac; General Atlantic; Genstar Capital; Health Enterprise Partners; Kohlberg Kravis Roberts & Co.; Linden Capital Partners; Madison Dearborn Partners; MetalMark; MedEquity; MTS Health Advisors; Nautic Partners; Oak Hill Capital; Parthenon Capital Partners; Riordan, Lewis & Haden; Riverside Company; Roundtable Healthcare Partners; Sterling Partners; Summer Street Capital Partners; SV Life Sciences; TA Associates; TPG Capital; Vestar Capital Partners; Water Street Healthcare Partners; Waud Capital Partners and Welsh, Carson, Anderson & Stowe. ",
+      "HCPEA's officers include: Brian Miller of Linden Capital Partners, Founder and President; Andrew Carragher of DW Healthcare Partners, Secretary; David Schuppan of Cressey & Co., Treasurer; Darren Black of SV Life Sciences, VP Services; Jeff Crisan of Bain Capital Ventures, VP Research; David Koo of RoundTable Healthcare Partners, VP Products; Aaron Lillybridge of Baird Capital Partners, VP Professional Development; David Neighbours of Waud Capital Partners, VP Membership; Jonathan Oka of Flexpoint Ford, VP IT; and David Tamburri of Health Enterprise Partners, VP Awards Dinner. ",
+      "Board members include: David Beecken, Beecken Petty O'Keefe & Company; Jim Elrod, Vestar Capital Partners; Chris Gordon, Bain Capital; Buddy Gumina, Apax Partners; Scott Hilinski, Nautic Partners; Scott Mackesy, Welsh, Carson, Anderson, & Stowe; Jim Momtazee, Kohlberg Kravis Roberts & Co.; Jeff Rhodes, TPG Capital; Tim Sullivan, Madison Dearborn Partners and Rob Weltman, Genstar Capital. "
+    ]
+  },
+  {
+    id: 0,
+    title: "Buyouts Magazine nominated DW Healthcare Partners' Verathon Inc. transaction as a Middle Market Deal of the Year & Deal of the Year. ",
+    date: "March 31, 2010",
+    location: "Park City, Utah",
+    copy: [
+      "Buyouts Magazine nominated DW Healthcare Partners' Verathon Inc. transaction as a Middle Market Deal of the Year & Deal of the Year. ",
+      "Buyouts Magazine, a sister company to peHUB, today announced the nominees and winners of this year’s Buyouts Deal of the Year Awards. DW Healthcare Partners (DWHP) and Rho Capital, were nominated into the Middle Market Deal of the Year & Deal of the Year categories for their role in the Verathon Inc. and Roper Industries Inc. (NYSE: ROP) transaction. ",
+      "Below is the article from Buyouts Magazine: ",
+      "Making it through 2009 was no easy feat. A number of buyout firms that began the year on solid footing came out the other end staggering from a recession that pulled no punches. ",
+      "Some firms, however, not only made it through the year—they excelled. These outliers generated healthy returns in a sickly market, raised lush funds in an arid environment and/or climbed league tables when so many others were in freefall. ",
+      "The winner in each category is identified by a pair of asterisks: ",
+      "&nbsp;",
+      " • MIDDLE MARKET DEAL OF THE YEAR & DEAL OF THE YEAR ",
+      " • Arcapita Inc. (Church’s Chicken)",
+      " • Castle Harlan Inc. (United Malt Holdings Inc.)",
+      " • DW Healthcare Partners and Rho Capital (Verathon Inc.)",
+      " • GTCR Golder Rauner LLC (Ovation Pharmaceuticals)**",
+      " • Oak Hill Capital Partners (Butler Schein Animal Health)",
+      " • TA Associates (Triumph HealthCare)",
+      "&nbsp;",
+      "LARGE MARKET DEAL OF THE YEAR ",
+      " • Cerberus (Talecris)",
+      " • TPG and GS Capital Partners (Alltel)",
+      " • Vestar Capital Partners (Birds Eye Foods)**",
+      "&nbsp;",
+      "SMALL MARKET DEAL OF THE YEAR ",
+      " • CCMP Capital Advisors (Nowaco)",
+      " • Hale Capital Partners (LocationLogic LLC)",
+      " • ICV Capital Partners (Sterling Foods Ltd.)",
+      " • Nautic Partners (Corporate Lodging Consultants Group Inc.)",
+      " • Sun Capital Partners (Timothy’s Coffees of the World)",
+      " • Webster Capital (CK Franchising Inc.)",
+      " • The Wicks Group of Companies (Penn Foster Education Group Inc.)**"
+    ]
   }
 ];
