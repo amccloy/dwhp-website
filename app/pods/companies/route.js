@@ -3,13 +3,13 @@ import Ember from 'ember';
 export default Ember.Route.extend({
   model() {
     return data;
-  },
+  }
 });
 
 const data = [
   {
     id: 1,
-    type: "current",
+    type: "past",
     name: "ABC Medical",
     image: "abc-medical",
     invested: null,
@@ -64,7 +64,7 @@ const data = [
   },
   {
     id: 6,
-    type: "current",
+    type: "past",
     name: "Arteriocyte Medical Systems",
     image: "arteriocyte",
     invested: null,
@@ -194,7 +194,7 @@ const data = [
     ]
   },
   {
-    id: 7,
+    id: 17,
     type: "past",
     name: "Genesis Technology Partners",
     image: "genesis",
@@ -203,6 +203,42 @@ const data = [
     location: null,
     bio: [
       "Genesis Technology Partners contracts with hospitals to provide medical equipment maintenance and repair programs. In February 2006, Masterplan acquired Genesis Technology Partners."
+    ]
+  },
+  {
+    id: 18,
+    type: "current",
+    name: "Caregiver",
+    image: "caregiver",
+    invested: null,
+    sold: null,
+    location: null,
+    bio: [
+      "TODO"
+    ]
+  },
+  {
+    id: 19,
+    type: "current",
+    name: "EHE International",
+    image: "ehe",
+    invested: null,
+    sold: null,
+    location: null,
+    bio: [
+      "TODO"
+    ]
+  },
+  {
+    id: 20,
+    type: "current",
+    name: "Scope Care",
+    image: "scope-care",
+    invested: null,
+    sold: null,
+    location: null,
+    bio: [
+      "TODO"
     ]
   }
 ];
