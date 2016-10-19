@@ -31,7 +31,7 @@ a {
 
 @media (min-width: 1300px) {
   .app-background {
-    background: red;
-    // TODO
+    background: #004890 url("/images/overflow-background.jpg") no-repeat center center;
+    background-size: cover;
   }
 }
