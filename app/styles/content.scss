@@ -2,8 +2,9 @@
   font-family: "ff-tisa-web-pro", serif;
   font-style: normal;
   font-weight: 400;
+  background: #ffffff;
 
-  &--sizer {
+  &__sizer {
     max-width: 950px;
     padding: 50px 10px;
     margin: 0 auto;
@@ -231,6 +232,18 @@
 
   &:before {
     content: "";
+    background: #ffffff;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: calc(100% + 200px);
+    z-index: 0;
+    transform: translateY(-80px);
+  }
+
+  &:after {
+    content: "";
     background: #f0f4f8;
     position: absolute;
     top: 0px;
@@ -241,7 +254,7 @@
     z-index: 0;
   }
 
-  .content--sizer {
+  .content__sizer {
     padding: 0px;
     z-index: 1;
     position: relative;

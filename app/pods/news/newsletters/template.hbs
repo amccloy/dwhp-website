@@ -9,19 +9,21 @@
   </div>
 </div>
 
-<div class="content content--sizer">
-  <div class="content__layout">
-    <div class="content__layout__primary">
-      {{#each model as |newsletter|}}
-        <div class="news__item">
-          <div class="news__item__title">
-            <a href="/newsletters/{{newsletter.file}}">{{newsletter.title}}</a>
+<div class="content">
+  <div class="content__sizer">
+    <div class="content__layout">
+      <div class="content__layout__primary">
+        {{#each model as |newsletter|}}
+          <div class="news__item">
+            <div class="news__item__title">
+              <a href="/newsletters/{{newsletter.file}}">{{newsletter.title}}</a>
+            </div>
+            <div class="news__item__subtitle">
+              {{newsletter.subtitle}}
+            </div>
           </div>
-          <div class="news__item__subtitle">
-            {{newsletter.subtitle}}
-          </div>
-        </div>
-      {{/each}}
+        {{/each}}
+      </div>
     </div>
   </div>
 </div>

@@ -8,30 +8,32 @@
 </div>
 
 <div class="companies">
-  <div class="content content--sizer">
-    <h2>Current</h2>
+  <div class="content">
+    <div class="content__sizer">
+      <h2>Current</h2>
 
-    <ul class="companies__list">
-      {{#each current as |company|}}
-        <li class="companies__list__item">
-          {{#link-to "companies.view" company class="companies__list__item__sizer"}}
-            <img src="/images/companies/{{company.image}}.png" alt={{company.name}}>
-          {{/link-to}}
-        </li>
-      {{/each}}
-    </ul>
+      <ul class="companies__list">
+        {{#each current as |company|}}
+          <li class="companies__list__item">
+            {{#link-to "companies.view" company class="companies__list__item__sizer"}}
+              <img src="/images/companies/{{company.image}}.png" alt={{company.name}}>
+            {{/link-to}}
+          </li>
+        {{/each}}
+      </ul>
 
-    <h2>Past</h2>
+      <h2>Past</h2>
 
-    <ul class="companies__list">
-      {{#each past as |company|}}
-        <li class="companies__list__item">
-          {{#link-to "companies.view" company class="companies__list__item__sizer"}}
-            <img src="/images/companies/{{company.image}}.png" alt={{company.name}}>
-          {{/link-to}}
-        </li>
-      {{/each}}
-    </ul>
+      <ul class="companies__list">
+        {{#each past as |company|}}
+          <li class="companies__list__item">
+            {{#link-to "companies.view" company class="companies__list__item__sizer"}}
+              <img src="/images/companies/{{company.image}}.png" alt={{company.name}}>
+            {{/link-to}}
+          </li>
+        {{/each}}
+      </ul>
+    </div>
   </div>
 </div>
 

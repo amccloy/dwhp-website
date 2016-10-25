@@ -8,76 +8,78 @@
   </div>
 </div>
 
-<div class="content content--sizer">
-  <div class="content__layout">
-    <div class="content__layout__primary">
+<div class="content">
+  <div class="content__sizer">
+    <div class="content__layout">
+      <div class="content__layout__primary">
 
-      <div class="content__image">
-        <img src="/images/team/{{model.image}}.jpg" alt={{model.name}}>
+        <div class="content__image">
+          <img src="/images/team/{{model.image}}.jpg" alt={{model.name}}>
+        </div>
+
+        {{#each model.bio as |paragraph|}}
+          <p>
+            {{paragraph}}
+          </p>
+        {{/each}}
       </div>
+      <ul class="content__sidebar">
+        {{#if model.telephone}}
+          <li class="content__sidebar__item">
+            <h5>Telephone</h5>
+            <p>
+              {{model.telephone}}
+            </p>
+          </li>
+        {{/if}}
 
-      {{#each model.bio as |paragraph|}}
-        <p>
-          {{paragraph}}
-        </p>
-      {{/each}}
+        {{#if model.email}}
+          <li class="content__sidebar__item">
+            <h5>Email</h5>
+            <p>
+              <a href="mailto:{{model.email}}">{{model.email}}</a>
+            </p>
+          </li>
+        {{/if}}
+
+        {{#if model.board}}
+          <li class="content__sidebar__item">
+            <h5>Board Participation</h5>
+            <ul>
+              {{#each model.board as |company|}}
+                {{#if company.url}}
+                  <li><a href={{company.url}}>{{company.name}}</a></li>
+                {{else}}
+                  <li>{{company.name}}</li>
+                {{/if}}
+              {{/each}}
+            </ul>
+          </li>
+        {{/if}}
+
+        {{#if model.experience}}
+          <li class="content__sidebar__item">
+            <h5>Prior Experience</h5>
+            <ul>
+              {{#each model.experience as |experience|}}
+                <li>{{experience}}</li>
+              {{/each}}
+            </ul>
+          </li>
+        {{/if}}
+
+        {{#if model.education}}
+          <li class="content__sidebar__item">
+            <h5>Education</h5>
+            <ul>
+              {{#each model.education as |education|}}
+                <li>{{education}}</li>
+              {{/each}}
+            </ul>
+          </li>
+        {{/if}}
+
+      </ul>
     </div>
-    <ul class="content__sidebar">
-      {{#if model.telephone}}
-        <li class="content__sidebar__item">
-          <h5>Telephone</h5>
-          <p>
-            {{model.telephone}}
-          </p>
-        </li>
-      {{/if}}
-
-      {{#if model.email}}
-        <li class="content__sidebar__item">
-          <h5>Email</h5>
-          <p>
-            <a href="mailto:{{model.email}}">{{model.email}}</a>
-          </p>
-        </li>
-      {{/if}}
-
-      {{#if model.board}}
-        <li class="content__sidebar__item">
-          <h5>Board Participation</h5>
-          <ul>
-            {{#each model.board as |company|}}
-              {{#if company.url}}
-                <li><a href={{company.url}}>{{company.name}}</a></li>
-              {{else}}
-                <li>{{company.name}}</li>
-              {{/if}}
-            {{/each}}
-          </ul>
-        </li>
-      {{/if}}
-
-      {{#if model.experience}}
-        <li class="content__sidebar__item">
-          <h5>Prior Experience</h5>
-          <ul>
-            {{#each model.experience as |experience|}}
-              <li>{{experience}}</li>
-            {{/each}}
-          </ul>
-        </li>
-      {{/if}}
-
-      {{#if model.education}}
-        <li class="content__sidebar__item">
-          <h5>Education</h5>
-          <ul>
-            {{#each model.education as |education|}}
-              <li>{{education}}</li>
-            {{/each}}
-          </ul>
-        </li>
-      {{/if}}
-
-    </ul>
   </div>
 </div>

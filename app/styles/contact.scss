@@ -1,10 +1,17 @@
 .contact {
+  padding: 1px 0;
+  background: #ffffff;
+
   h2 {
     font-family: "ff-tisa-web-pro", serif;
     text-align: center;
     font-size: 32px;
     font-weight: 400;
     margin: 60px 0 30px 0;
+
+    &:first-child {
+      margin-top: 60px;
+    }
   }
 
   &__block {
@@ -14,7 +21,7 @@
     background-position: center;
     background-color: #f1f1f1;
 
-    .content--sizer {
+    .content__sizer {
       padding: 0;
     }
 

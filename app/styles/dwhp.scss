@@ -4,6 +4,7 @@ html, body {
   line-height: 22px;
   color: #474747;
   font-family: -apple-system, BlinkMacSystemFont, ".SFNSDisplay-Light", "San Francisco", "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
 }
 
 a {
@@ -17,27 +18,15 @@ a {
   }
 }
 
-.app-background {
-  min-height: 100vh;
-}
-
 .app-sizer {
   max-width: 1300px;
   margin: 0 auto;
-  min-height: 100vh;
   position: relative;
-  background: #ffffff;
 }
 
-@media (min-width: 1300px) {
-  .app-background {
-    background: #004890 url("/images/overflow-background.jpg") no-repeat center center;
-    background-size: cover;
-    height: 100vh;
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    width: 100vw;
-    overflow: auto;
-  }
+.app-background {
+  height: 100vh;
+  background: #004890 url("/images/overflow-background.jpg") no-repeat center center;
+  background-size: cover;
+  overflow: auto;
 }

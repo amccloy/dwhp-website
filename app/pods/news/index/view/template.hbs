@@ -8,37 +8,39 @@
   </div>
 </div>
 
-<div class="content content--sizer">
-  <div class="content__layout">
-    <div class="content__layout__primary">
-      {{#each model.copy as |paragraph|}}
-        <p>{{{paragraph}}}</p>
-      {{/each}}
+<div class="content">
+  <div class="content__sizer">
+    <div class="content__layout">
+      <div class="content__layout__primary">
+        {{#each model.copy as |paragraph|}}
+          <p>{{{paragraph}}}</p>
+        {{/each}}
 
-      {{#each model.learnMore as |more|}}
+        {{#each model.learnMore as |more|}}
+          <p>
+            {{more.title}} <a href={{more.url}}>{{more.url}}</a>
+          </p>
+        {{/each}}
+
+        <h2>About DW Healthcare Partners</h2>
+
         <p>
-          {{more.title}} <a href={{more.url}}>{{more.url}}</a>
+          DW Healthcare Partners is a private equity firm focused exclusively on the healthcare industry. The firm manages over $500 million in committed capital and invests in profitable healthcare companies with proven management teams.
         </p>
-      {{/each}}
-
-      <h2>About DW Healthcare Partners</h2>
-
-      <p>
-        DW Healthcare Partners is a private equity firm focused exclusively on the healthcare industry. The firm manages over $500 million in committed capital and invests in profitable healthcare companies with proven management teams.
-      </p>
-      <p>
-        DW Healthcare Partners is led by seasoned healthcare executives with more than 110 years of combined industry experience. The firm provides the capital, strategic guidance, and acquisition expertise to help mid-to-late-stage companies realize their potential for growth.
-      </p>
+        <p>
+          DW Healthcare Partners is led by seasoned healthcare executives with more than 110 years of combined industry experience. The firm provides the capital, strategic guidance, and acquisition expertise to help mid-to-late-stage companies realize their potential for growth.
+        </p>
+      </div>
+      <ul class="content__sidebar">
+        <li class="content__sidebar__item">
+          <h2>Press Inquiries</h2>
+          <p>
+            <strong>Lisa Downey</strong><br>
+            416-583-2428<br>
+            <a href="mailto:lisa@dwhp.com">lisa@dwhp.com</a>
+          </p>
+        </li>
+      </ul>
     </div>
-    <ul class="content__sidebar">
-      <li class="content__sidebar__item">
-        <h2>Press Inquiries</h2>
-        <p>
-          <strong>Lisa Downey</strong><br>
-          416-583-2428<br>
-          <a href="mailto:lisa@dwhp.com">lisa@dwhp.com</a>
-        </p>
-      </li>
-    </ul>
   </div>
 </div>

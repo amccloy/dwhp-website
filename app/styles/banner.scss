@@ -1,20 +1,7 @@
 .banner {
-  background-size: cover;
-  background-position: center;
-
-  &--homepage { background-image: url("/images/banner-home.jpg"); }
-  &--companies { background-image: url("/images/banner-companies.jpg"); }
-  &--contact { background-image: url("/images/banner-contact.jpg"); }
-  &--news { background-image: url("/images/banner-news.jpg"); }
-  &--team { background-image: url("/images/banner-team.jpg"); }
-  &--approach { background-image: url("/images/banner-approach.jpg"); }
-  &--adding-value { background-image: url("/images/banner-adding-value.jpg"); }
-  &--deal-process { background-image: url("/images/banner-deal-process.jpg"); }
-  &--transaction-types { background-image: url("/images/banner-transaction-types.jpg"); }
-
   &__content {
     padding: 150px 20px 0 20px;
-    background: linear-gradient(120deg, rgba(0, 72, 144, 0.85) 0%, rgba(85, 186, 244, 0.85) 100%);
+    background: linear-gradient(120deg, rgba(0, 72, 144, 0.75) 0%, rgba(85, 186, 244, 0.75) 100%);
     min-height: 250px;
     text-align: center;
     color: #ffffff;
