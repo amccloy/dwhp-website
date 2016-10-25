@@ -57,6 +57,12 @@
   }
 }
 
+@media (max-width: 520px) {
+  .navigation--hide-on-mobile {
+    display: none !important;
+  }
+}
+
 @media (max-width: 450px) {
   .navigation {
     &__logo {
