@@ -4,6 +4,8 @@
     <p class="banner__content__intro">
       Get the latest scoop on DWHP.
     </p>
+
+    {{news/news-navigation}}
   </div>
 </div>
 
@@ -15,7 +17,7 @@
           <div class="news__item__date">{{news.date}}</div>
           <div class="news__item__title">
             {{#if news.copy}}
-              {{link-to news.title "news.view" news}}
+              {{link-to news.title "news.index.view" news}}
             {{else if news.url}}
               <a href={{news.url}}>{{news.title}}</a>
             {{/if}}
