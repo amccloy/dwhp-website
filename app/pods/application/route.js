@@ -54,6 +54,7 @@ const data = [
     title: "Stephen J. Fanning Appointed President & CEO of Z-Medica",
     date: "April 3, 2014",
     location: "Toronto, Ontario",
+    url: "http://www.marketwatch.com/story/stephen-j-fanning-appointed-president-ceo-of-z-medica-2014-04-03?reflink=MW_news_stmp",
     copy: null
   },
   {

@@ -15,14 +15,25 @@
   <ul class="homepage__news">
     {{#each news as |item|}}
       <li class="homepage__news__item">
-        {{#link-to "news.view" item class="homepage__news__item__link"}}
-          <span class="homepage__news__item__link__image">
-            <img src="/images/news/{{item.image}}.jpg">
-          </span>
-          <span class="homepage__news__item__link__title">
-            {{item.title}}
-          </span>
-        {{/link-to}}
+        {{#if item.url}}
+          <a href={{item.url}}>
+            <span class="homepage__news__item__link__image">
+              <img src="/images/news/{{item.image}}.jpg">
+            </span>
+            <span class="homepage__news__item__link__title">
+              {{item.title}}
+            </span>
+          </a>
+        {{else}}
+          {{#link-to "news.view" item class="homepage__news__item__link"}}
+            <span class="homepage__news__item__link__image">
+              <img src="/images/news/{{item.image}}.jpg">
+            </span>
+            <span class="homepage__news__item__link__title">
+              {{item.title}}
+            </span>
+          {{/link-to}}
+        {{/if}}
       </li>
     {{/each}}
   </ul>
