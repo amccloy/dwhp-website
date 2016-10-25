@@ -278,7 +278,7 @@ const data = [
     id: 22,
     type: "past",
     name: "Aerosol Science Lab",
-    image: "aerosol-science-lab",
+    image: "asl-pharmacy",
     invested: null,
     sold: null,
     location: null,
