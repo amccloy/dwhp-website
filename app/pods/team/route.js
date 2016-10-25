@@ -12,7 +12,7 @@ const data = [
     type: "investment",
     name: "Andrew Carragher",
     image: "andrew-carragher",
-    title: "Founder & Managing Director",
+    title: "Managing Partner",
     location: "Toronto, Ontario",
     telephone: "416-583-2421",
     email: "acarragher@dwhp.com",
@@ -31,7 +31,7 @@ const data = [
       },
       {
         name: "Genesis Technology Partners",
-        url: "http://www.masterplan-inc.com/index.html"
+        url: null
       },
       {
         name: "Health & Safety Institute",
@@ -244,7 +244,7 @@ const data = [
       },
       {
         name: "The Radlinx Group",
-        url: "http://www.radlinxgroup.com/"
+        url: "https://www.nighthawkradiology.com/"
       },
       {
         name: "Reliant Rehabilitation",
@@ -420,7 +420,7 @@ const data = [
     name: "Aaron Kennedy",
     image: "aaron-kennedy",
     title: "Associate",
-    location: "Toront, Ontario",
+    location: "Toronto, Ontario",
     telephone: "416-583-2426",
     email: "aaron@dwhp.com",
     board: null,
@@ -429,7 +429,7 @@ const data = [
       "VNTG Apparel"
     ],
     education: [
-      "H.B.A., University of Western Ontario"
+      "H.B.A., Ivey School of Business, The University of Western Ontario"
     ],
     bio: [
       "Prior to joining DWHP, Aaron worked as an Analyst at Barclays where he worked with financial sponsors and corporate clients in the telecom, power & utilities, consumer retailing, industrials, infrastructure and business services sectors. At Barclays, Aaron performed financial analyses and was responsible for building and running various operating, valuation, leveraged buyout and merger models as the lead Analyst on a number of sell-side and buy-side M&A mandates, capital markets financings and leveraged buyouts. While still at University, Aaron co-Founded VNTG Apparel, a vintage style apparel brand and received a prestigious scholarship for entrepreneurship for this and other entrepreneurial activities.",
@@ -678,7 +678,7 @@ const data = [
     type: "admin",
     name: "Molly Ryan",
     image: "molly-ryan",
-    title: "Administration",
+    title: "Office Manager, Toronto",
     location: "Toronto, Ontario",
     telephone: "416-583-2420",
     email: "mryan@dwhp.com",
@@ -701,7 +701,7 @@ const data = [
     type: "admin",
     name: "Dawn Smith",
     image: "dawn-smith",
-    title: "Office Manager",
+    title: "Office Manager, Park City",
     location: "Park City, Utah",
     telephone: "435-645-4062",
     email: "dawn@dwhp.com",

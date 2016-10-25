@@ -23,7 +23,7 @@ const data = [
   {
     id: 19,
     image: '19',
-    title: "DW Healthcare Partners announced the sale of Health and Safety Institute",
+    title: "DW Healthcare Partners Announced the Sale of Health and Safety Institute",
     date: "May 19, 2015",
     location: "Toronto, Ontario",
     copy: [
@@ -38,7 +38,7 @@ const data = [
   {
     id: 18,
     image: '18',
-    title: "DW Healthcare Partners announced the sale of its portfolio company, Career Step",
+    title: "DW Healthcare Partners Announced the Sale of Its Portfolio Company, Career Step",
     date: "February 4, 2015",
     location: "Toronto, Ontario",
     copy: [
@@ -51,7 +51,7 @@ const data = [
   },
   {
     id: 17,
-    title: "Stephen J. Fanning Appointed President & CEO of Z-Medica",
+    title: "Stephen J. Fanning Appointed President and CEO of Z-Medica",
     date: "April 3, 2014",
     location: "Toronto, Ontario",
     url: "http://www.marketwatch.com/story/stephen-j-fanning-appointed-president-ceo-of-z-medica-2014-04-03?reflink=MW_news_stmp",
@@ -59,7 +59,7 @@ const data = [
   },
   {
     id: 16,
-    title: "DW Healthcare Partners has sold St. Andrews Acquisitions, Inc. to Bregal Partners",
+    title: "DW Healthcare Partners Has Sold St. Andrews Acquisitions, Inc. to Bregal Partners",
     date: "September 11, 2013",
     location: "Toronto, Ontario",
     copy: [
@@ -106,7 +106,7 @@ const data = [
     id: 13,
     title: "DW Healthcare Partners Invests in Health & Safety Institute and Summit Training Source, Inc.",
     date: "March 5, 2013",
-    location: "Toronto, Ontario",
+    location: "Toronto, Ontario and Park City, Utah",
     copy: [
       "DW Healthcare Partners (DWHP), a healthcare-focused private equity firm with offices in Toronto, Ontario and Park City, Utah, is pleased to announce an investment in Health & Safety Institute (HSI) of Eugene, Oregon. This platform investment marks another partnership within DWHP's third healthcare fund. HSI is the leading for-profit emergency care and response training organization in North America. Since 1978, HSI has certified millions of emergency care providers globally.",
       "Andrew Carragher, Co-founder and Managing Director in DWHP's Toronto office stated, 'We are very pleased to be partnering with Health & Safety Institute. Bill Clendenen and his team have positioned the company well with technically-superior and highly-relevant training platforms so that together, we can take advantage of the significant growth opportunities ahead of us in this technology-driven arena of healthcare compliance and education.'",
@@ -128,7 +128,7 @@ const data = [
     id: 12,
     title: "DW Healthcare Partners Announces Closing of New $265 Million Third Fund",
     date: "February 11, 2013",
-    location: "Park City, Utah",
+    location: "Toronto, Ontario and Park City, Utah",
     copy: [
       "DW Healthcare Partners, a healthcare-focused private equity firm, announced today that it has completed fundraising for its third fund (“DWHP III”), which has closed with $265 million of committed capital, exceeding its original target of $250 million. DWHP III investors are comprised of pension plans, foundations, fund of funds, high net-worth individuals and family trusts.",
       "DWHP Co-Founder and Managing Director, Andrew Carragher said, “Through our partnerships with talented founders and management teams in our portfolio companies, we have been able to sustain a consistent track record of delivering above-average returns to our investors. As a result, we attracted a great deal of interest while fundraising for Fund III and are pleased that we have exceeded our target. We thank all of our limited partners for their commitment to our firm and look forward to forging new partnerships with innovators, founders, and management teams in the healthcare industry”.",
@@ -141,7 +141,7 @@ const data = [
     id: 11,
     title: "DW Healthcare Partners Invests in Z-Medica Corporation",
     date: "September 12, 2012",
-    location: "Toronto, Ontario",
+    location: "Park City, Utah",
     copy: [
       "DW Healthcare Partners lll, LP ('DWHP'), a private equity firm focused exclusively on the healthcare industry, announced today it has invested in Z-Medica Corporation ('Z-Medica'). Founded in 2002, Z-Medica is a leading medical device company that develops, manufactures and markets innovative hemostatic agents including the QuikClot family of products that rapidly enhance the body's natural coagulation process. Financial terms of the transaction were not disclosed.",
       "'ZMedica is an incredibly exciting company with exceptionally innovative products with applications to control bleeding. We look forward to helping further the mission of providing unique products that improve patient outcomes and ultimately save lives' said Doug Schillinger, a Managing Director with DWHP. 'Co-founders Bart Gullong and Frank Hursey built a market leader with an impressive management team which will be led going forward by Larry Hicks. Larry is a seasoned healthcare executive with decades of experience building high growth, progressive medical product companies.'",
@@ -157,7 +157,7 @@ const data = [
   },
   {
     id: 10,
-    title: "Norwest Equity Partners Acquires Pentec Health.",
+    title: "Norwest Equity Partners Acquires Pentec Health",
     date: "June 12, 2012",
     location: "Minneapolis, Minnesota",
     copy: [
@@ -198,8 +198,8 @@ const data = [
   },
   {
     id: 8,
-    title: "DW Healthcare Partners Announces New CEO On Heels of Increased Investment In Institutional Pharmacy Sector",
-    date: "January 28, 2011",
+    title: "DW Healthcare Partners Announces New CEO on Heels of Increased Investment in Institutional Pharmacy Sector",
+    date: "January 18, 2011",
     location: "Park City, Utah",
     copy: [
       "DW Healthcare Partners (DWHP), a leading private equity firm specializing in select healthcare sectors, announced the appointment of Bradley Lanham as the new Chief Executive Officer of BGS Holdings. Through BGS Holdings, DWHP has now completed acquisitions of institutional pharmacies specializing in long term care and hospice in growth markets including Texas, Nevada, Utah, Idaho and Colorado.",
@@ -223,7 +223,7 @@ const data = [
     id: 6,
     title: "BGS Pharmacy Partners, a DW Healthcare Partners Portfolio Company, Acquires Spectrum Pharmacy Services, LLC of Henderson, Nevada ",
     date: "September 30, 2010",
-    location: "Park City, Utah",
+    location: "Grapevine, Texas",
     copy: [
       "BGS Holdings, the parent company of BGS Pharmacy Partners, Inc. (BGS) of Grapevine, Texas announced today the acquisition of Spectrum Pharmacy Services, LLC (Spectrum) of Henderson, Nevada for an undisclosed sum.",
       "BGS, a portfolio company of DW Healthcare Partners (DWHP) of Park City, Utah has previously acquired four pharmacies focused on the senior care marketplace in Colorado Springs, Colorado, Boise, Idaho, Ogden, Utah and Grapevine, Texas. By acquiring Spectrum, BGS is doubling its revenue in addition to extending its presence in the mountain west region",
@@ -255,35 +255,26 @@ const data = [
     id: 3,
     title: "Joseph Cosgrove Named as E&Y Entrepreneur Of The Year Finalist in the Greater Philadelphia Region",
     date: "May 21, 2010",
-    location: "Park City, Utah",
+    location: "Philadelphia",
     copy: [
-      ""
+      "Pentec Health Incorporated, a DW Healthcare Partners portfolio company, today announced that Joe Cosgrove, President and Chief Executive Officer, is a finalist for the Ernst & Young Entrepreneur of the Year 2010 Award in the Greater Philadelphia Region. According to Ernst & Young LLP, the awards program recognizes entrepreneurs who demonstrate extraordinary success in the areas of innovation, financial performance and personal commitment to their business and communities. Mr. Cosgrove was selected as a finalist from over 60 nominations by a panel of independent judges. Awards winners will be announced at a special gala event on June 9, 2010 at the Loews Hotel in Philadelphia.",
+      "'I'm very honored and humbled to be considered a finalist for this very prestigious award', stated Mr. Cosgrove. My selection is recognition of the Company's performance and the outstanding efforts of all of our associates nationwide.",
+      "The Ernst & Young Entrepreneur of the Year awards program celebrates its 24th anniversary this year. The program has expanded to recognize business leaders in over 135 cities in 50 countries throughout the world.",
+      "Regional award winners are eligible for consideration for the Ernst & Young LLP Entrepreneur of the Year national program. Award winners in several national categories as well as the overall national Ernst & Young Entrepreneur Of The Year award winner, will be announced at the annual awards gala in Palm Springs, California in November, 2010. The awards are the culminating event of the Ernst & Young Strategic Growth Forum, the nation's most prestigious gathering of high-growth, market-leading companies. ",
+      "<h3>About Pentec Health, Inc.</h3>",
+      "For more than 27 years, Pentec Health has been an industry leader in providing Specialty Infusion Services nationwide to patients who require access to complex pharmaceutical products and services outside of the hospital setting. ",
+      "Based in Boothwyn, Pennsylvania, Pentec Health provides IPN and IDPN products and services to dialysis centers for their malnourished dialysis patients; and, as a Joint Commission accredited home care provider, offers specialty in-home infusion services for highly complex conditions that are underserved by traditional home care providers. Pentec Health offers preparation and clinical management of drug therapies, skilled nursing support, reimbursement services and unparalleled care coordination to patients with acute and chronic conditions. ",
+      "Their 'convenience of care' model is pharmacy based, nurse administered and patient and physician preferred.",
+      "Pentec Health is widely recognized as an organization with large scale efficiencies to meet all of their patients' Specialty Infusion needs, with the rapid responsiveness of a local provider.",
+      "<h3>About Ernst & Young's Entrepreneur Of The Year Awards Program</h3>",
+      "Ernst & Young's Entrepreneur Of The Year Award is the world's most prestigious business award for entrepreneurs. The award makes a difference through the way it encourages entrepreneurial activity amoung those with potential and recognizes the contribution of people who inspire others with their vision, leadership and achievement. As the first and only true global award of its kind, the Ernst & Young Entrepreneur Of The Year award celebrates those who are building and leading successful, growing and dynamic businesses, recognizing them through regional, national and global awards programs in more than 135 cities in 50 countries."
     ]
   },
   {
     id: 2,
-    title: "",
-    date: "",
-    location: "Park City, Utah",
-    copy: [
-      "Pentec Health Incorporated, a DW Healthcare Partners portfolio company, today announced that Joe Cosgrove, President and Chief Executive Officer, is a finalist for the Ernst & Young Entrepreneur of the Year 2010 Award in the Greater Philadelphia Region. According to Ernst & Young LLP, the awards program recognizes entrepreneurs who demonstrate extraordinary success in the areas of innovation, financial performance and personal commitment to their business and communities. Mr. Cosgrove was selected as a finalist from over 60 nominations by a panel of independent judges. Awards winners will be announced at a special gala event on June 9, 2010 at the Loews Hotel in Philadelphia.",
-      "'I'm very honored and humbled to be considered a finalist for this very prestigious award', stated Mr. Cosgrove. 'My selection is recognition of the Company's performance and the outstanding efforts of all of our associates nationwide.'",
-      "The Ernst & Young Entrepreneur of the Year awards program celebrates its 24th anniversary this year. The program has expanded to recognize business leaders in over 135 cities in 50 countries throughout the world. ",
-      "Regional award winners are eligible for consideration for the Ernst & Young LLP Entrepreneur of the Year national program. Award winners in several national categories as well as the overall national Ernst & Young Entrepreneur Of The Year award winner, will be announced at the annual awards gala in Palm Springs, California in November, 2010. The awards are the culminating event of the Ernst & Young Strategic Growth Forum, the nation's most prestigious gathering of high-growth, market-leading companies. ",
-      "About Pentec Health, Inc.",
-      "For more than 27 years, Pentec Health has been an industry leader in providing Specialty Infusion Services nationwide to patients who require access to complex pharmaceutical products and services outside of the hospital setting.",
-      "Based in Boothwyn, Pennsylvania, Pentec Health provides IPN and IDPN products and services to dialysis centers for their malnourished dialysis patients; and, as a Joint Commission accredited home care provider, offers specialty in-home infusion services for highly complex conditions that are underserved by traditional home care providers. Pentec Health offers preparation and clinical management of drug therapies, skilled nursing support, reimbursement services and unparalleled care coordination to patients with acute and chronic conditions. ",
-      "Their 'convenience of care' model is pharmacy based, nurse administered and patient and physician preferred. ",
-      "Pentec Health is widely recognized as an organization with large scale efficiencies to meet all of their patients' Specialty Infusion needs, with the rapid responsiveness of a local provider. ",
-      "About Ernst & Young's Entrepreneur Of The Year Awards Program",
-      "Ernst & Young's Entrepreneur Of The Year Award is the world's most prestigious business award for entrepreneurs. The award makes a difference through the way it encourages entrepreneurial activity amoung those with potential and recognizes the contribution of people who inspire others with their vision, leadership and achievement. As the first and only true global award of its kind, the Ernst & Young Entrepreneur Of The Year award celebrates those who are building and leading successful, growing and dynamic businesses, recognizing them through regional, national and global awards programs in more than 135 cities in 50 countries. "
-    ]
-  },
-  {
-    id: 1,
-    title: "Leading private equity firms active in the healthcare industry today announced the formation of the Healthcare Private Equity Association (HCPEA)",
+    title: "Leading Private Equity Firms Active in the Healthcare Industry Today Announced the Formation of the Healthcare Private Equity Association (HCPEA)",
     date: "May 21, 2010",
-    location: "Park City, Utah",
+    location: "Chicago, Illinois",
     copy: [
       "Leading private equity firms active in the healthcare industry today announced the formation of the Healthcare Private Equity Association (HCPEA), a Chicago-based, non-profit trade association whose purpose is to support the reputation, knowledge and relationships of the healthcare private equity community. As of its founding, HCPEA's roughly forty member firms represent over $300 billion of capital under management and over 300 healthcare-focused investment professionals. ",
       "As the first sector-focused trade association in private equity, HCPEA anticipates it will represent one of the largest groups of privately-held healthcare businesses in the U.S. Its members' approximately 500 healthcare portfolio companies have over $200 billion of combined revenue and over 750,000 employees. ",
@@ -294,12 +285,11 @@ const data = [
     ]
   },
   {
-    id: 0,
-    title: "Buyouts Magazine nominated DW Healthcare Partners' Verathon Inc. transaction as a Middle Market Deal of the Year & Deal of the Year. ",
+    id: 1,
+    title: "Buyouts Magazine Nominated DW Healthcare Partners' Verathon Inc. transaction as a Middle Market Deal of the Year & Deal of the Year",
     date: "March 31, 2010",
     location: "Park City, Utah",
     copy: [
-      "Buyouts Magazine nominated DW Healthcare Partners' Verathon Inc. transaction as a Middle Market Deal of the Year & Deal of the Year. ",
       "Buyouts Magazine, a sister company to peHUB, today announced the nominees and winners of this year’s Buyouts Deal of the Year Awards. DW Healthcare Partners (DWHP) and Rho Capital, were nominated into the Middle Market Deal of the Year & Deal of the Year categories for their role in the Verathon Inc. and Roper Industries Inc. (NYSE: ROP) transaction. ",
       "Below is the article from Buyouts Magazine: ",
       "Making it through 2009 was no easy feat. A number of buyout firms that began the year on solid footing came out the other end staggering from a recession that pulled no punches. ",
