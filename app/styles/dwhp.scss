@@ -26,7 +26,32 @@ a {
 
 .app-background {
   height: 100vh;
-  background: #004890 url("/images/overflow-background.jpg") no-repeat center center;
+  background: #004890 url("/images/overflow-background--index.jpg") no-repeat center center;
   background-size: cover;
   overflow: auto;
+
+  &--index,
+  &--page-not-found {
+    background-image: url("/images/overflow-background--index.jpg");
+  }
+
+  &--team {
+    background-image: url("/images/overflow-background--team.jpg");
+  }
+
+  &--approach {
+    background-image: url("/images/overflow-background--approach.jpg");
+  }
+
+  &--companies {
+    background-image: url("/images/overflow-background--companies.jpg");
+  }
+
+  &--contact {
+    background-image: url("/images/overflow-background--contact.jpg");
+  }
+
+  &--news {
+    background-image: url("/images/overflow-background--news.jpg");
+  }
 }
