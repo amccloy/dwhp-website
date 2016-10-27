@@ -55,3 +55,10 @@ a {
     background-image: url("/images/overflow-background--news.jpg");
   }
 }
+
+@media print {
+  .app-background {
+    height: auto;
+    background: none;
+  }
+}
