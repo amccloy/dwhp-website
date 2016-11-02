@@ -4,45 +4,32 @@
 
   h2 {
     font-family: "ff-tisa-web-pro", serif;
-    text-align: center;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: 400;
-    margin: 60px 0 30px 0;
-
-    &:first-child {
-      margin-top: 60px;
-    }
+    margin: 0 0 30px 0;
   }
 
-  &__block {
-    padding: 20px;
-    margin: 50px 0;
-    background-size: cover;
-    background-position: center;
-    background-color: #f1f1f1;
+  &__columns {
+    display: flex;
 
-    .content__sizer {
-      padding: 0;
-    }
-
-    &--toronto { background-image: url("/images/contact-toronto.jpg") }
-    &--park-city { background-image: url("/images/contact-park-city.jpg") }
-
-    &__frame {
+    &__column {
       padding: 15px;
-      background: #ffffff;
-      width: 250px;
-      border-radius: 5px;
       font-size: 15px;
       line-height: 22px;
-      box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3);
       color: #474747;
+      margin-right: 40px;
+      min-width: 340px;
 
       h5 {
         margin: 0;
         font-weight: 500;
         font-size: inherit;
         color: #262626;
+      }
+
+      &__image {
+        max-width: 340px;
+        margin-bottom: 20px;
       }
 
       &__address {
