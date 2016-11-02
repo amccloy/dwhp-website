@@ -90,11 +90,10 @@ const data = [
       "M.B.A, Harvard Business School"
     ],
     bio: [
-      "Andrew is a Founder and Managing Director of DW Healthcare Partners, a private equity fund that invests exclusively in healthcare companies. He has and currently sits on the Board of Directors of Genesis Technology Partners, Verathon, Tandem Labs, Reliant Renal Care, Reliant Rehabilitation, Pentec Health, Career Step, Z-Medica Corporation, Health & Safety Institute, ABC Home Medical Supply and Aerosol Science Laboratories Inc. Andrew's investment experience includes clinical research organizations, dialysis clinics, specialty infusion, clinical labs and medical devices. He has considerable experience in building and operating healthcare companies, overseeing mergers and acquisitions, and raising capital.",
-      "Prior to co-founding DWHP, Andrew was Vice President of Business Development at Ventro Corporation, a builder and aggregator of electronic marketplaces. Andrew joined Ventro prior to its IPO and was involved in the strategic planning and capital raising process, in which Ventro raised over $40 million in private capital and over $360 million in the public markets, both in the U.S. and Europe. He was also responsible for over $1.2 billion in mergers and acquisitions, including Ventro's purchase of Promedix Corporation and SpecialtyMD. During his tenure at Ventro, Andrew helped create and raise capital for Broadlane, a joint venture between Tenet Healthcare and Ventro.",
-      "Prior to Ventro, Andrew was Director of Corporate Development/Mergers and Acquisitions at Total Renal Care (now Davita), an operator of 500 dialysis clinics. Andrew completed over 25 transactions with an aggregate value of $2.3 billion. The company raised over $200 million in public equity, $250 million in public convertible debt, and over $1 billion in syndicated debt.",
-      "Before Total Renal Care, Andrew was a Divisional Manager at Weston Foods in New York City, a 200-employee manufacturing and distribution business in the bakery and confectionary business.",
-      "Andrew also worked for Bain & Company, a leading international strategy and consulting firm. While there, he advised clients in a number of industries, including telecommunications, airlines and real estate.",
+      "Andrew is a Founder and Managing Partner of DW Healthcare Partners. Andrew's investment experience includes clinical research organizations, dialysis clinics, behavioral health, specialty infusion, clinical labs and medical devices. He has considerable experience in building and operating healthcare companies, overseeing mergers and acquisitions, and raising capital.",
+      "Prior to co-founding DWHP, Andrew was Vice President of Business Development at Ventro Corporation, a builder and aggregator of electronic marketplaces. He was responsible for over $1.2 billion in mergers and acquisitions, including Ventro's purchase of Promedix Corporation and SpecialtyMD. During his tenure at Ventro, Andrew helped create and raise capital for Broadlane, a joint venture between Tenet Healthcare and Ventro.",
+      "Prior to Ventro, Andrew was Director of Corporate Development/Mergers and Acquisitions at Total Renal Care (now Davita), an operator of 500 dialysis clinics. Andrew completed over 25 transactions with an aggregate value of $2.3 billion.",
+      "Before Total Renal Care, Andrew was a Divisional Manager at Weston Foods in New York City, a 200-employee manufacturing and distribution business in the bakery and confectionary business. Andrew also worked for Bain & Company, a leading international strategy and consulting firm.",
       "Andrew was raised in Toronto, Canada. He received his Bachelors degree in Business Administration from the University of Western Ontario and his MBA from Harvard Business School.",
       "Andrew was recognized in 2006 as one of Utah's Top 40 Under 40 and was a previous member of Utah's YPO chapter."
     ]
@@ -157,9 +156,9 @@ const data = [
       "M.B.A, Harvard Business School"
     ],
     bio: [
-      "Doug is a Managing Director with DW Healthcare Partners. His investment and transaction experience includes bio-analytical/immune-analytical service laboratories, institutional and specialty pharmacies, medical device manufacturers in the cardiac and orthopedic markets, physician practice management companies, elder care service providers and clinical research organizations. He has or currently sits on the Board of Directors of Tandem Labs, Pentec Health, Hill Top Research, Global Physics Solutions, ClinOps, BGS Pharmacy, and Arteriocyte Medical.",
-      "Before joining DWHP, Doug worked for Bain & Company, a leading international strategy consulting firm. While there, Doug led strategic due diligence efforts as part of Bain's Private Equity Group. He evaluated investment opportunities in a number of industries and functions including healthcare services, consumer products and industrial manufacturing and assessed potential deals ranging in size from $20 million to $2 billion. Prior to joining Bain's Private Equity Group, Doug advised Bain's commercial clients in the consumer products and food service industries. During this time, he managed the design and formulation of marketing and new product development strategies for Fortune 100 clients.",
-      "Doug also worked with Accenture (formerly Andersen Consulting), an international consulting firm focused on information technologies and process reengineering. As a Manager with the firm, Doug worked in Accenture's Process and Change Management practices where he led several large scale IT implementations and reengineering projects for Fortune 500 clients.",
+      "Doug is a Managing Director with DW Healthcare Partners. His investment and transaction experience includes bio-analytical/immune-analytical service laboratories, institutional and specialty pharmacies, medical device manufacturers in the cardiac and orthopedic markets, physician practice management companies, elder care service providers and clinical research organizations.",
+      "Before joining DWHP, Doug worked for Bain & Company. While there, Doug led strategic due diligence efforts as part of Bain's Private Equity Group. Prior to joining Bain's Private Equity Group, Doug advised Bain's commercial clients in the consumer products and food service industries.",
+      "Doug also worked with Accenture (formerly Andersen Consulting), an international consulting firm focused on information technologies and process reengineering.",
       "Doug was raised in Connecticut. He has received a Bachelors degree from Cornell University and an MBA with Distinction from Harvard Business School, and currently sits on the Harvard Business School Alumni Board of Directors."
     ]
   },
@@ -230,11 +229,10 @@ const data = [
       "M.B.A., Pepperdine University, Graziadio School of Business"
     ],
     bio: [
-      "Rod has over 20 years of experience growing, building and operating healthcare companies.",
-      "Prior to joining DWHP, Rod was President and CEO of Royce Medical Holdings, a private equity owned orthopedics manufacturer with multiple manufacturing sites in New Jersey, Taiwan, China and California.  In August of 2005, Royce Medical was sold to Ossur, a european orthopedics company for $216 million in a cash transaction.",
+      "Rod has over 20 years of experience growing, building and operating healthcare companies. His focus is on directly working with portfolio companies on both strategy and operations.",
+      "Prior to joining DWHP, Rod was President and CEO of Royce Medical Holdings, a private equity owned orthopedics manufacturer with multiple manufacturing sites in New Jersey, Taiwan, China and California.",
       "Before Royce Medical, Rod was President and CEO of Syncor Pharmaceutical Services, a $700 million division of Syncor International (NYSE: SCOR) with over 2200 employees. While CEO of Syncor Pharmaceutical Services, he launched five new businesses and developed a growth strategy that grew the division from $489 million to $700 million in two years. In January 2003, Syncor was acquired by Cardinal Health (NYSE: CAH) for $1 billion.",
-      "Prior to Syncor, Rod was President of the West Region and Corporate Officer at Allegiance Healthcare, where he managed a $1 billion division of Allegiance with over 1200 employees. Before this assignment, he also held a number of senior positions at Allegiance and Baxter Healthcare.",
-      "Prior to Baxter and Allegiance, he was Divisional Vice President and General Manager of the Pacific Northwest operating region for Owens and Minor.",
+      "Prior to Syncor, Rod was President of the West Region and Corporate Officer at Allegiance Healthcare. Before this assignment, he also held a number of senior positions at Allegiance and Baxter Healthcare.",
       "Rod holds a Bachelors Degree in Science from Oregon State University and an MBA degree from the Graziadio School of Business at Pepperdine University."
     ]
   },
@@ -295,10 +293,9 @@ const data = [
       "M.D. Oklahoma University"
     ],
     bio: [
-      "Jay is a Founder and Managing Director of DW Healthcare Partners. Jay graduated from Rice University with a BA in Psychology in 1975. He completed medical school at Oklahoma University in 1979 and finished oncology training in 1984. He practiced medical oncology from 1984 - 2002. Jay worked as President at Cancer Care Associates as it grew from six to 42 doctors. Cancer Care Associates joined the US Oncology (NASDAQ:USON) network in 1995 as the last practice to join pre-IPO. Jay served in multiple roles at US Oncology as it grew from 90 doctors to over 800. He was on the Executive Committee, served as one of the first Medical Directors, was Vice Chairman of the Policy Board, served on the Executive Committee of the Pharmacy and Therapeutics Committee, and was Chairman of several pharmaceutical company research liaison boards.",
+      "Jay is a Founder and Managing Director of DW Healthcare Partners. He practiced medical oncology from 1984 - 2002. Jay worked as President at Cancer Care Associates as it grew from six to 42 doctors. Cancer Care Associates joined the US Oncology (NASDAQ:USON) network in 1995. Jay served in multiple roles at US Oncology as it grew from 90 doctors to over 800. He was on the Executive Committee, served as one of the first Medical Directors, was Vice Chairman of the Policy Board, served on the Executive Committee of the Pharmacy and Therapeutics Committee, and was Chairman of several pharmaceutical company research liaison boards.",
       "Jay has also served on numerous American Society of Clinical Oncology boards, committees and panels, including the Strategic Planning Committee in 1996, the Clinical Practice Committee, and the Managed Care Committee. He chaired the Managed Care and Practice Improvement Symposium for three years.",
-      "From 1975 until the creation of DW Healthcare Partners, he worked with partner, Skip Klintworth, on a series of investments in various healthcare sectors.",
-      "Jay has served as a trustee or board member for the Leukemia Society of America, the American Cancer Society, and the Development Board for the Park City Hospital."
+      "Jay has served as a trustee or board member for the Leukemia Society of America, the American Cancer Society, and the Development Board for the Park City Hospital. Jay graduated from Rice University with a BA in Psychology in 1975. He completed medical school at Oklahoma University in 1979 and finished oncology training in 1984."
     ]
   },
   {
@@ -364,7 +361,7 @@ const data = [
       "H.B.A., Ivey School of Business, The University of Western Ontario"
     ],
     bio: [
-      "Aly joined DW Healthcare Partners in April of 2014 and brings 10 years of merger and acquisition experience. Previously at Clairvest, he supported activities in domain research, new investment origination, structuring and execution. He has served on 5 boards. Before joining Clairvest, Aly worked as a consultant for Mercer Management Consulting and as an investment banker at BMO Nesbitt Burns in their communication and technology practice.",
+      "Aly joined DW Healthcare Partners in April of 2014 and brings over 12 years of merger and acquisition experience. Previously at Clairvest Group (Private Equity), he supported activities in domain research, new investment origination, structuring and execution. He has served on 5 boards. Before joining Clairvest, Aly worked as a consultant for Mercer Management Consulting and as an investment banker at BMO Nesbitt Burns.",
       "Aly was raised in Toronto, Ontario. He earned his Honours Business Administration degree from the Richard Ivey School of Business at the University of Western Ontario."
     ]
   },
@@ -389,7 +386,8 @@ const data = [
       "H.B.A., Ivey School of Business, The University of Western Ontario"
     ],
     bio: [
-      "Gabe joined DW Healthcare Partners in August of 2016 and brings 12 years of merger and acquisition experience. Previously at AIMCo, he was responsible for sourcing, executing and managing direct private equity investments with a focus on the business services and financial services sectors. Gabe also co-founded WagJag, an online “local offer” business that offers flash sales on a wide variety of products and services. During his tenure, he was active in all aspects of the business, including sourcing and negotiating the sale of WagJag to Torstar Corporation. Prior to WagJag, Gabe worked as the Director of Corporate Development for FirstOnSite Restoration L.P., where he executed over a dozen acquisitions as part of a national roll-up strategy. Earlier in his career, he worked as an Associate at TorQuest Partners and an Analyst at Merrill Lynch.",
+      "Gabe joined DW Healthcare Partners in August of 2016 and brings 12 years of merger and acquisition experience. Previously at AIMCo, he was responsible for sourcing, executing and managing direct private equity investments with a focus on the business services and financial services sectors. Gabe also co-founded WagJag, an online “local offer” business that offers flash sales on a wide variety of products and services. ",
+      "Prior to WagJag, Gabe worked as the Director of Corporate Development for FirstOnSite Restoration L.P., where he executed over a dozen acquisitions as part of a national roll-up strategy. Earlier in his career, he worked as an Associate at TorQuest Partners and an Analyst at Merrill Lynch.",
       "Gabe was raised in Vancouver, British Columbia. He earned his Honours Business Administration degree from the Richard Ivey School of Business at the University of Western Ontario."
     ]
   },
@@ -480,7 +478,7 @@ const data = [
       "H.B.A., Ivey School of Business, The University of Western Ontario"
     ],
     bio: [
-      "Prior to joining DWHP, Aaron worked as an Analyst at Barclays where he worked with financial sponsors and corporate clients in the telecom, power & utilities, consumer retailing, industrials, infrastructure and business services sectors. At Barclays, Aaron performed financial analyses and was responsible for building and running various operating, valuation, leveraged buyout and merger models as the lead Analyst on a number of sell-side and buy-side M&A mandates, capital markets financings and leveraged buyouts. While still at University, Aaron co-Founded VNTG Apparel, a vintage style apparel brand and received a prestigious scholarship for entrepreneurship for this and other entrepreneurial activities.",
+      "Prior to joining DWHP, Aaron worked as an Analyst at Barclays where he worked with financial sponsors and corporate clients in the telecom, power & utilities, consumer retailing, industrials, infrastructure and business services sectors. While still at University, Aaron co-Founded VNTG Apparel, a vintage style apparel brand and received a prestigious scholarship for entrepreneurship for this and other entrepreneurial activities.",
       "Aaron was raised in Vancouver and is involved in many outdoor sports, including adaptive skiing and Ironman Triathlons. He graduated on the Dean’s Honor List from the Ivey Business School at Western University where he also played Varsity Rugby."
     ]
   },
