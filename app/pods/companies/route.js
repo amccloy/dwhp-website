@@ -229,10 +229,10 @@ const data = [
     image: "caregiver",
     invested: null,
     sold: null,
-    location: null,
+    location: "Texas",
     url: "",
     bio: [
-      "TODO"
+      "Intermediate care facilities and community based services for individuals with developmental disabilities"
     ]
   },
   {
@@ -242,23 +242,10 @@ const data = [
     image: "ehe",
     invested: null,
     sold: null,
-    location: null,
+    location: "New York, NY",
     url: "http://www.eheintl.com",
     bio: [
-      "TODO"
-    ]
-  },
-  {
-    id: 20,
-    type: "current",
-    name: "Scope Care",
-    image: "scope-care",
-    invested: null,
-    sold: null,
-    location: null,
-    url: "http://scopecare.com",
-    bio: [
-      "TODO"
+      "Comprehensive physical exams for employees."
     ]
   },
   {

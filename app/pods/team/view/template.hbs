@@ -42,11 +42,26 @@
           </li>
         {{/if}}
 
-        {{#if model.board}}
+        {{#if model.currentBoard}}
           <li class="content__sidebar__item">
-            <h5>Board Participation</h5>
+            <h5>Current Board</h5>
             <ul>
-              {{#each model.board as |company|}}
+              {{#each sortedCurrentBoard as |company|}}
+                {{#if company.url}}
+                  <li><a href={{company.url}}>{{company.name}}</a></li>
+                {{else}}
+                  <li>{{company.name}}</li>
+                {{/if}}
+              {{/each}}
+            </ul>
+          </li>
+        {{/if}}
+
+        {{#if model.previousBoard}}
+          <li class="content__sidebar__item">
+            <h5>Previous Board</h5>
+            <ul>
+              {{#each sortedPreviousBoard as |company|}}
                 {{#if company.url}}
                   <li><a href={{company.url}}>{{company.name}}</a></li>
                 {{else}}

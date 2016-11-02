@@ -16,7 +16,41 @@ const data = [
     location: "Toronto, Ontario",
     telephone: "416-583-2421",
     email: "acarragher@dwhp.com",
-    board: [
+    currentBoard: [
+      {
+        name: "Pentec Health",
+        url: "http://www.pentechealth.com"
+      },
+      {
+        name: "Reliant Renal Care, Inc.",
+        url: "http://www.reliantrenalcare.com"
+      },
+      {
+        name: "Reliant Rehabilitation",
+        url: "http://www.reliant-rehab.com"
+      },
+      {
+        name: "Z-Medica Corporation",
+        url: "http://www.z-medica.com"
+      },
+      {
+        name: "Med-Pharmex",
+        url: "http://www.z-medica.com"
+      },
+      {
+        name: "Z-Medica Corporation",
+        url: "http://med-pharmex.com"
+      },
+      {
+        name: "EHE International",
+        url: "http://www.eheintl.com"
+      },
+      {
+        name: "Isologic",
+        url: "http://www.isologicradiopharm.ca"
+      }
+    ],
+    previousBoard: [
       {
         name: "Aerosol Science Laboratories Inc.",
         url: "http://www.aslrx.com/"
@@ -38,28 +72,12 @@ const data = [
         url: "http://www.hsi.com/"
       },
       {
-        name: "Pentec Health",
-        url: "http://www.pentechealth.com/"
-      },
-      {
-        name: "Reliant Renal Care, Inc.",
-        url: "http://www.reliantrenalcare.com/"
-      },
-      {
-        name: "Reliant Rehabilitation",
-        url: "http://www.reliant-rehab.com/"
-      },
-      {
         name: "Tandem Labs, Inc.",
         url: null
       },
       {
         name: "Verathon",
         url: "http://www.verathon.com/"
-      },
-      {
-        name: "Z-Medica Corporation",
-        url: "http://www.z-medica.com/"
       },
     ],
     experience: [
@@ -90,7 +108,17 @@ const data = [
     location: "Park City, Utah",
     telephone: "435-645-4056",
     email: "doug@dwhp.com",
-    board: [
+    currentBoard: [
+      {
+        name: "Reliant Rehabilitation",
+        url: "http://www.reliant-rehab.com/"
+      },
+      {
+        name: "Z-Medica Corporation",
+        url: "http://www.z-medica.com/"
+      }
+    ],
+    previousBoard: [
       {
         name: "Arteriocyte Medical Systems",
         url: "http://www.arteriocyte.com/"
@@ -116,20 +144,8 @@ const data = [
         url: "http://www.hill-top.com/"
       },
       {
-        name: "Pentec Health",
-        url: "http://www.pentechealth.com/"
-      },
-      {
-        name: "Reliant Rehabilitation",
-        url: "http://www.reliant-rehab.com/"
-      },
-      {
         name: "Tandem Labs, Inc.",
         url: null
-      },
-      {
-        name: "Z-Medica Corporation",
-        url: "http://www.z-medica.com/"
       }
     ],
     experience: [
@@ -156,7 +172,25 @@ const data = [
     location: "Toronto, Ontario",
     telephone: "435-645-4066",
     email: "rod@dwhp.com",
-    board: [
+    currentBoard: [
+      {
+        name: "Pentec Health",
+        url: "http://www.pentechealth.com/"
+      },
+      {
+        name: "Med-Pharmex",
+        url: "http://www.z-medica.com"
+      },
+      {
+        name: "Caregiver",
+        url: null
+      },
+      {
+        name: "Isologic",
+        url: "http://www.isologicradiopharm.ca"
+      }
+    ],
+    previousBoard: [
       {
         name: "ABC Home Medical Supply",
         url: "http://www.abchomemedical.com/"
@@ -180,10 +214,6 @@ const data = [
       {
         name: "Hill Top Research",
         url: "http://www.hill-top.com/"
-      },
-      {
-        name: "Pentec Health",
-        url: "http://www.pentechealth.com/"
       },
       {
         name: "Tandem Labs, Inc",
@@ -217,7 +247,17 @@ const data = [
     location: "Park City, Utah",
     telephone: "435-645-4052",
     email: "jay@dwhp.com",
-    board: [
+    currentBoard: [
+      {
+        name: "Reliant Rehabilitation",
+        url: "http://www.reliant-rehab.com/"
+      },
+      {
+        name: "Isologic",
+        url: "http://www.isologicradiopharm.ca"
+      },
+    ],
+    previousBoard: [
       {
         name: "Arteriocyte Medical Systems",
         url: "http://www.arteriocyte.com/"
@@ -245,10 +285,6 @@ const data = [
       {
         name: "The Radlinx Group",
         url: "https://www.nighthawkradiology.com/"
-      },
-      {
-        name: "Reliant Rehabilitation",
-        url: "http://www.reliant-rehab.com/"
       }
     ],
     experience: [
@@ -274,14 +310,16 @@ const data = [
     location: "Park City, Utah",
     telephone: "435-645-4054",
     email: "lance@dwhp.com",
-    board: [
-      {
-        name: "Arteriocyte",
-        url: "http://www.arteriocyte.com/"
-      },
+    currentBoard: [
       {
         name: "Z-Medica Corporation",
         url: "http://www.z-medica.com/"
+      }
+    ],
+    previousBoard: [
+      {
+        name: "Arteriocyte",
+        url: "http://www.arteriocyte.com/"
       }
     ],
     experience: [
@@ -306,11 +344,21 @@ const data = [
     location: "Toronto, Ontario",
     telephone: "416-583-2422",
     email: "aly@dwhp.com",
-    board: null,
+    currentBoard: [
+      {
+        name: "EHE International",
+        url: "http://www.eheintl.com"
+      },
+      {
+        name: "Caregiver",
+        url: null
+      }
+    ],
     experience: [
       "Clairvest",
       "Mercer Management Consulting",
-      "BMO Nesbitt Burns"
+      "BMO Nesbitt Burns",
+      "Boards: Landauer Metropolitan Inc., Momentum Aerospace Group, Casino Marina Del Sol, Casino Sol Calama, Casino Sol Osorno"
     ],
     education: [
       "H.B.A., Ivey School of Business, The University of Western Ontario"
