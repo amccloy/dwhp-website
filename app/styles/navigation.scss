@@ -14,13 +14,13 @@
   }
 
   &__logo {
-    width: 75px;
-    height: 75px;
+    width: 85px;
+    height: 85px;
     display: inline-block;
     background: url('/images/dwhp-logo.png') no-repeat center center;
     background-size: auto 100%;
     position: absolute;
-    top: 5px;
+    top: 0px;
     left: 10px;
     cursor: pointer;
     transition: transform 0.2s;
