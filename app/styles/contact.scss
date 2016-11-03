@@ -13,7 +13,6 @@
     display: flex;
 
     &__column {
-      padding: 15px;
       font-size: 15px;
       line-height: 22px;
       color: #474747;
@@ -64,6 +63,22 @@
         &:hover {
           background: #e0edf9;
         }
+      }
+    }
+  }
+}
+
+@media (max-width: 750px) {
+  .contact__columns {
+    display: block;
+
+    &__column {
+      max-width: 500px;
+      margin-bottom: 60px;
+      margin-right: 0px;
+
+      &__image {
+        max-width: none;
       }
     }
   }

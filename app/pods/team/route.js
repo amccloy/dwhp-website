@@ -86,7 +86,7 @@ const data = [
       "Bain & Company"
     ],
     education: [
-      "B.S., University of Western Ontario",
+      "H.B.A., Ivey School of Business, The University of Western Ontario",
       "M.B.A, Harvard Business School"
     ],
     bio: [
