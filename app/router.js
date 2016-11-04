@@ -28,7 +28,10 @@ Router.map(function() {
     this.route('view', { path: ':company_id' });
   });
 
-  this.route('contact');
+  this.route('contact', function() {
+    this.route('toronto');
+    this.route('park-city');
+  });
 
   this.route('page-not-found', { path: '/*wildcard' });
 });
