@@ -89,7 +89,7 @@ const data = [
     location: "Eugene, OR",
     url: "http://www.hsi.com",
     bio: [
-      "Health & Safety Institute (HSI) is one of the leading providers of safety and emergency care content and training.  In May, 2015, DWHP sold HSI to The Riverside Company, a New York based private equity fund."
+      "Health & Safety Institute (HSI) is one of the leading providers of safety and emergency care content and training.  In May, 2015, DW Healthcare Partners sold HSI to The Riverside Company, a New York based private equity fund."
     ]
   },
   {
@@ -102,7 +102,7 @@ const data = [
     location: "Provo, UT",
     url: "http://www.careerstep.com",
     bio: [
-      "Career Step is a leading provider of online, career-focused training programs in the high-growth healthcare sector. In February 2015, DWHP sold Career Step to Revelstoke Capital Partners, a Denver based private-equity fund."
+      "Career Step is a leading provider of online, career-focused training programs in the high-growth healthcare sector. In February 2015, DW Healthcare Partners sold Career Step to Revelstoke Capital Partners, a Denver based private-equity fund."
     ]
   },
   {
