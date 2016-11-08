@@ -258,7 +258,7 @@ const data = [
     location: null,
     url: "http://www.pentechealth.com",
     bio: [
-      "TODO"
+      "Patient-specific compounded sterile medications for administration in dialysis centers."
     ]
   },
   {
@@ -271,7 +271,7 @@ const data = [
     location: null,
     url: "http://www.arelabs.com",
     bio: [
-      "TODO"
+      "Retail pharmacy that dispenses compounded medications to treat sinus disease."
     ]
   },
   {
@@ -284,8 +284,20 @@ const data = [
     location: null,
     url: "http://www.isologicradiopharm.ca",
     bio: [
-      "TODO"
+      "Radiopharmaceutical services for the SPECT and PET diagnostic imaging communities."
+    ]
+  },
+  {
+    id: 24,
+    type: "current",
+    name: "PRIME Education, Inc.",
+    image: "prime-education",
+    invested: null,
+    sold: null,
+    location: null,
+    url: "https://primeinc.org",
+    bio: [
+      "An ACCME accredited provider of continuing medical education for Physicians, Pharmacists, Nurses and Case Managers"
     ]
   }
-
 ];

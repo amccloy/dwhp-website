@@ -217,6 +217,10 @@ const data = [
       {
         name: "Tandem Labs, Inc",
         url: null
+      },
+      {
+        name: "BGS Pharmacy Partners",
+        url: null
       }
     ],
     experience: [
