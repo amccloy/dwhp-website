@@ -1,53 +1,40 @@
 # Dwhp
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Code for DWHP.com
 
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
 
 * [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM)
+* [Node.js](http://nodejs.org/)
+* [Yarn](https://yarnpkg.com/)
 * [Bower](http://bower.io/)
 * [Ember CLI](http://www.ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
 
 ## Installation
 
 * `git clone <repository-url>` this repository
 * change into the new directory
-* `npm install`
+* `yarn`
 * `bower install`
 
 ## Running / Development
 
 * `ember server`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* Preview the website at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
+To make changes to the site modify files in the `/app/pods/` folder. The folder strcuture matches the URL structure of the website. You can make small changes directly on github. Quickest way to find the file you want to edit is to use the search box and look for the text you want to modify.
 
 ### Building
 
-* `ember build` (development)
 * `ember build --environment production` (production)
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+Upload code from `/dist` folder to server. Ensure that the index.html page is also servered for all 404 requests, or duplicate it to 404.html if the server requires that.
 
 ## Further Reading / Useful Links
 
 * [ember.js](http://emberjs.com/)
 * [ember-cli](http://www.ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
