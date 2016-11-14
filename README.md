@@ -32,7 +32,9 @@ To make changes to the site modify files in the `/app/pods/` folder. The folder 
 
 ### Deploying
 
-Upload code from `/dist` folder to server. Ensure that the index.html page is also servered for all 404 requests, or duplicate it to 404.html if the server requires that.
+Upload code from `/dist` folder to server. Ensure that the index.html page is also served for all 404 requests, or duplicate it to 404.html if the server requires that.
+
+If using surge, simple run `ember surge`
 
 ## Further Reading / Useful Links
 
