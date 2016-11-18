@@ -12,7 +12,7 @@ const data = [
     type: "investment",
     name: "Andrew Carragher",
     image: "andrew-carragher",
-    title: "Managing Partner",
+    title: "Founder & Managing Partner",
     location: "Toronto, Ontario",
     telephone: "416-583-2421",
     email: "acarragher@dwhp.com",
