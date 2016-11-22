@@ -295,9 +295,9 @@ const data = [
     invested: null,
     sold: null,
     location: null,
-    url: "https://primeinc.org",
+    url: "https://primece.com",
     bio: [
-      "An ACCME accredited provider of continuing medical education for Physicians, Pharmacists, Nurses and Case Managers"
+      "An accredited provider of continuing medical education for the interprofessional health care team"
     ]
   }
 ];
