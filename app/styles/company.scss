@@ -8,6 +8,7 @@
   max-height: calc(100vh - 40px);
   overflow: auto;
   box-sizing: border-box;
+  position: relative;
 
   h5 {
     margin: 0;
@@ -89,6 +90,8 @@
       float: none;
       margin-left: 0px;
       margin-top: 50px;
+      border-left: 0px;
+      padding: 0;
     }
   }
 }
