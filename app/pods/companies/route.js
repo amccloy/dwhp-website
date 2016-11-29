@@ -232,7 +232,7 @@ const data = [
     location: "Texas",
     url: "",
     bio: [
-      "Intermediate care facilities and community based services for individuals with developmental disabilities"
+      "Provider of services for people with intellectual and developmental disabilities."
     ]
   },
   {
