@@ -9,7 +9,7 @@ export default Ember.Route.extend({
 const data = [
   {
     id: 21,
-    image: '20',
+    image: '21',
     title: "DW Healthcare Partners and Linden Capital Partners announced today the joint acquisition of Edge Systems",
     date: "December 1, 2016",
     location: "Toronto, Ontario",
