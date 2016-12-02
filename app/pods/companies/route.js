@@ -235,8 +235,21 @@ const data = [
       "Provider of services for people with intellectual and developmental disabilities."
     ]
   },
-  {
+    {
     id: 19,
+    type: "current",
+    name: "Edge Systems",
+    image: "edge",
+    invested: null,
+    sold: null,
+    location: "Signal Hill, CA",
+    url: "http://www.edgeforlife.com",
+    bio: [
+      " Edge Systems is a manufacturer of non-invasive equipment and consumables used in aesthetic skin health treatments."
+    ]
+  },  
+  {
+    id: 20,
     type: "current",
     name: "EHE International",
     image: "ehe",
