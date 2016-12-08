@@ -50,7 +50,7 @@ const data = [
     date: "February, 2016",
     location: "New York, New York",
     copy: [
-      "DW Healthcare Partners, a healthcare-focused private equity firm, is pleased to announce an investment in EHE International (“EHE”) of New York City, New York. EHE partners with employers and individuals to offer comprehensive physical exams, preventative health programs and travel medicine consultation and services. The company operates over 150 locations across the US and is committed to providing the same exceptional health experience at all of their locations."
+      "DW Healthcare Partners, a healthcare-focused private equity firm, is pleased to announce an investment in EHE International ('EHE') of New York City, New York. EHE partners with employers and individuals to offer comprehensive physical exams, preventative health programs and travel medicine consultation and services. The company operates over 150 locations across the US and is committed to providing the same exceptional health experience at all of their locations."
       "DWHP's investment in EHE International marks another partnership within the private equity firm's third healthcare fund." 
       "Andrew Carragher, Co-founder and Managing Partner stated, “We are very pleased to have this opportunity to partner with EHE. Their 100 year legacy of care not only protects the health of their client’s employees, but through preventative health services, can lower longer term healthcare costs. This investment will provide us with a stable platform that can be further leveraged as new services and offerings are added to the portfolio.”" 
     ]
