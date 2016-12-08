@@ -8,7 +8,7 @@ export default Ember.Route.extend({
 
 const data = [
   {
-    id: 21,
+    id: 22,
     image: '21',
     title: "DW Healthcare Partners and Linden Capital Partners announced today the joint acquisition of Edge Systems",
     date: "December 1, 2016",
@@ -21,7 +21,7 @@ const data = [
     ]
   },
   {
-    id: 20,
+    id: 21,
     image: '20',
     title: "Gabriel Becher Joins DW Healthcare Partners as Principal",
     date: "August 8, 2016",
@@ -31,6 +31,18 @@ const data = [
       "Gabe brings 12 years of merger and acquisition experience. Previously at AIMCo, he was responsible for sourcing, executing and managing direct private equity investments with a focus on the business services and financial services sectors.",
       "Gabe also co-founded WagJag, an online “local offer” business that offers flash sales on a wide variety of products and services. During his tenure, he was active in all aspects of the business, including sourcing and negotiating the sale of WagJag to Torstar Corporation.",
       "Prior to WagJag, Gabe worked as the Director of Corporate Development for FirstOnSite Restoration L.P., where he executed over a dozen acquisitions as part of a national roll-up strategy. Earlier in his career, he worked as an Associate at TorQuest Partners and an Analyst at Merrill Lynch."
+    ]
+   },
+  {
+    id: 20,
+    image: '22',
+    title: "DW Healthcare Partners Invests in EHE International",
+    date: "February, 2016",
+    location: "New York, New York",
+    copy: [
+      "DW Healthcare Partners, a healthcare-focused private equity firm, is pleased to announce an investment in EHE International (“EHE”) of New York City, New York. EHE partners with employers and individuals to offer comprehensive physical exams, preventative health programs and travel medicine consultation and services. The company operates over 150 locations across the US and is committed to providing the same exceptional health experience at all of their locations."
+      "DWHP's investment in EHE International marks another partnership within the private equity firm's third healthcare fund." 
+      "Andrew Carragher, Co-founder and Managing Partner stated, “We are very pleased to have this opportunity to partner with EHE. Their 100 year legacy of care not only protects the health of their client’s employees, but through preventative health services, can lower longer term healthcare costs. This investment will provide us with a stable platform that can be further leveraged as new services and offerings are added to the portfolio.”" 
     ]
   },
   {
