@@ -8,7 +8,7 @@ export default Ember.Route.extend({
 
 const data = [
   {
-    id: 22,
+    id: 23,
     image: '21',
     title: "DW Healthcare Partners and Linden Capital Partners announced today the joint acquisition of Edge Systems",
     date: "December 1, 2016",
@@ -18,6 +18,20 @@ const data = [
       "As part of an aesthetics sector effort, Linden and DWHP teamed up with Clint Carnell and Steve Fanning, who will be named CEO and Chairman of Edge, respectively. Mr. Carnell is a 25-year medical device and aesthetics veteran who previously held leadership positions at Solta Medical, Covidien and Bausch & Lomb. Mr. Fanning has an extensive background in healthcare, aesthetics, and consumer pharmaceuticals. Currently CEO of Z-Medica, Mr. Fanning has also served as CEO of Solta Medical, CEO of Ocular Sciences, and held various senior leadership positions at Johnson & Johnson. Both executives were instrumental in canvassing the aesthetic skin health sector and leading diligence of Edge Systems.",
       " “Edge is recognized as a pioneer in non-invasive aesthetic treatments, and we are excited by the continued growth potential of this business,” said Mr. Fanning. “With a unique technology and strong track record of customer and end-user satisfaction, Edge is well-positioned to address the growing demand for non-invasive facial rejuvenation treatments.”",
       "Other key advisors joining the Edge Systems Board of Directors include Howard Kelly, former CEO of Alma Lasers, and Glenn Novotny, the previous Chairman of Edge Systems who oversaw its strong growth to date. Edge will also receive the continued support of Bill Cohen and Roger Ignon, who co-founded Edge and drove the Company’s success to date."
+    ]
+  },
+  {
+    id: 22,
+    image: '23',
+    title: "DW Healthcare Partners Invests in PRIME Education Inc",
+    date: "November 9th, 2016",
+    location: "Tamarac, Florida",
+    copy: [
+      "Tamarac, Florida, November 9th, 2016 - DW Healthcare Partners (“DWHP”), a healthcare-focused private equity firm, is pleased to announce an investment in Prime Education (PRIME®) of Tamarac, Florida." 
+      "PRIME is a multi-awarded healthcare education company and a recognized national pioneer in quality improvement continuing education (CE). With a 22-year history of providing inter-professional continuing education (IPCE) across federal, military/VA, payer, provider, academic, and other settings, PRIME engages clinicians, patients and consumers in tethered education to improve coordination of care and better outcomes." 
+      "Jay Benear, MD, Co-Founder and Managing Director of DWHP, is a medical oncologist who has served in various leadership roles with US Oncology.  “When I was at US Oncology,” Jay stated, “we worked hard to create technology information exchanges.  We found early adopters, but struggled getting established clinicians to use these systems.  One of the interesting aspects of PRIME is its respect and adaptability for learning preferences – the dichotomy between traditional and tech-driven learning environments. PRIME is an educational company, but it is really a learning and change catalyst.”"
+      "Andrew Carragher, Co-Founder and Managing Director of DWHP, said, “PRIME’s use of practice data for healthcare improvement and applied educational innovation in systems-based care are fundamental game-changers, as proven again and again through their results published in medical literature. We look forward to contributing to PRIME’s continued growth in improving outcomes for patients, families, clinicians, and communities.”"
+      "“The opportunity to partner with DWHP advances PRIME’s mission to support and sustain measurable change in health outcomes,” noted Kathleen Moreo, RN, BSN, BHSA, CCM, Cm, CMDS, Founder and CEO of PRIME. “Our goal is to continue impacting public health priorities and national healthcare initiatives through our learning solutions. We are energized by the vast expertise of the DWHP management team to assist us in these critically important objectives.”"
     ]
   },
   {
