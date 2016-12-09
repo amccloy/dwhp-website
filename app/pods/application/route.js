@@ -28,7 +28,6 @@ const data = [
     location: "Tamarac, Florida",
     copy: [
       "Tamarac, Florida, November 9th, 2016 - DW Healthcare Partners (“DWHP”), a healthcare-focused private equity firm, is pleased to announce an investment in Prime Education (PRIME) of Tamarac, Florida."
-      "Jay Benear, MD, Co-Founder and Managing Director of DWHP, is a medical oncologist who has served in various leadership roles with US Oncology.  “When I was at US Oncology,” Jay stated, “we worked hard to create technology information exchanges.  We found early adopters, but struggled getting established clinicians to use these systems.  One of the interesting aspects of PRIME is its respect and adaptability for learning preferences – the dichotomy between traditional and tech-driven learning environments. PRIME is an educational company, but it is really a learning and change catalyst.”"
       "Andrew Carragher, Co-Founder and Managing Director of DWHP, said, “PRIME’s use of practice data for healthcare improvement and applied educational innovation in systems-based care are fundamental game-changers, as proven again and again through their results published in medical literature. We look forward to contributing to PRIME’s continued growth in improving outcomes for patients, families, clinicians, and communities.”"
       "“The opportunity to partner with DWHP advances PRIME’s mission to support and sustain measurable change in health outcomes,” noted Kathleen Moreo, RN, BSN, BHSA, CCM, Cm, CMDS, Founder and CEO of PRIME. “Our goal is to continue impacting public health priorities and national healthcare initiatives through our learning solutions. We are energized by the vast expertise of the DWHP management team to assist us in these critically important objectives.”"
     ]
@@ -46,6 +45,16 @@ const data = [
       "Prior to WagJag, Gabe worked as the Director of Corporate Development for FirstOnSite Restoration L.P., where he executed over a dozen acquisitions as part of a national roll-up strategy. Earlier in his career, he worked as an Associate at TorQuest Partners and an Analyst at Merrill Lynch."
     ]
    },
+  {
+    id: 20,
+    image: '20',
+    title: "DW Healthcare Partners Invests in EHE International",
+    date: "February, 2016",
+    location: "New York, New York",
+    copy: [
+      "DW Healthcare Partners, a healthcare-focused private equity firm, is pleased to announce an investment in EHE International ('EHE') of New York City, New York. EHE partners with employers and individuals to offer comprehensive physical exams, preventative health programs and travel medicine consultation and services. The company operates over 150 locations across the US and is committed to providing the same exceptional health experience at all of their locations."
+    ]
+  },
   {
     id: 19,
     image: '19',
