@@ -9,7 +9,7 @@ export default Ember.Route.extend({
 const data = [
   {
     id: 23,
-    image: '23',
+    image: '21',
     title: "DW Healthcare Partners and Linden Capital Partners announced today the joint acquisition of Edge Systems",
     date: "December 1, 2016",
     location: "Toronto, Ontario",
@@ -22,7 +22,7 @@ const data = [
   },
   {
     id: 22,
-    image: '22',
+    image: '23',
     title: "DW Healthcare Partners Invests in PRIME Education Inc",
     date: "November 9th, 2016",
     location: "Tamarac, Florida",
@@ -36,7 +36,7 @@ const data = [
   },
   {
     id: 21,
-    image: '21',
+    image: '20',
     title: "Gabriel Becher Joins DW Healthcare Partners as Principal",
     date: "August 8, 2016",
     location: "Toronto, Ontario",
@@ -49,7 +49,7 @@ const data = [
    },
   {
     id: 20,
-    image: '20',
+    image: '22',
     title: "DW Healthcare Partners Invests in EHE International",
     date: "February, 2016",
     location: "New York, New York",
