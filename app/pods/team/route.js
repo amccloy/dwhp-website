@@ -35,10 +35,6 @@ const data = [
       },
       {
         name: "Med-Pharmex",
-        url: "http://www.z-medica.com"
-      },
-      {
-        name: "Z-Medica Corporation",
         url: "http://med-pharmex.com"
       },
       {
