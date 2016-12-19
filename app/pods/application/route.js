@@ -44,7 +44,10 @@ const data = [
       "Headquartered in Dallas, TX, Caregiver is a premier provider of services for adults with intellectual and developmental disabilities (“I/DD”). “We are excited to be partnering with the team at Caregiver and continue to offer best in class services to our consumers,” said Aly Champsi, Principal at DWHP. “The Company has a strong track record and provides a vital service to the population it serves. We look forward to working with management on the next phase of growth for the business.”",
       "About Caregiver",
       "Caregiver is the leading provider of community-based services to the I/DD community in Texas.  The company provides a full continuum of services including supported living, residential habilitation, licensed homes, host-home services, day habilitation and in-home supports. The Company is recognized as a best-in-class provider within the large, community-based I/DD industry.",
-      "Caregiver’s mission is to provide the finest services, helping assist those they serve to enjoy productive, dignified and independent lives. To fulfill their mission, they respect individuals’ abilities and provide an innovative, loving and home-like environment, where individuals can experience life to the fullest and reach their potential.",   
+      "Caregiver’s mission is to provide the finest services, helping assist those they serve to enjoy productive, dignified and independent lives. To fulfill their mission, they respect individuals’ abilities and provide an innovative, loving and home-like environment, where individuals can experience life to the fullest and reach their potential.",
+      "About Council Capital",
+      "Council Capital is a Nashville-based healthcare private equity firm with approximately $300 million of capital under management.  Council Capital makes control and minority investments in fast-growing healthcare companies. The firm seeks investments on the “right side of healthcare” where growth will accelerate as cost pressure and quality demands increase.",
+      "Council Capital has a longstanding history of successfully partnering with healthcare companies that will benefit from its CEO Council business model offering exclusive access to a top-tier group of 34 industry-leading CEOs and several strategic healthcare investors.",  
     ]
   },
   {
