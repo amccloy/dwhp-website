@@ -36,6 +36,7 @@ const data = [
   },
   {
     id: 22,
+    image: '24',
     title: "DW Healthcare Partners and Council Capital Invest in Caregiver",
     date: "September, 2016",
     location: "Dallas, Texas",
