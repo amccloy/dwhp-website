@@ -8,10 +8,10 @@ export default Ember.Route.extend({
 
 const data = [
   {
-    id: 23,
+    id: 24,
     image: '21',
     title: "DW Healthcare Partners and Linden Capital Partners announced today the joint acquisition of Edge Systems",
-    date: "December 1, 2016",
+    date: "December 1st, 2016",
     location: "Toronto, Ontario",
     copy: [
       "Toronto, ON (December 1, 2016) -  DW Healthcare Partners (“DWHP”) and Linden Capital Partners (“Linden”), both healthcare-focused private equity firms, announced today the joint acquisition of Edge Systems (“Edge” or the “Company”). Headquartered in Signal Hill, California, Edge is a leading manufacturer and marketer of non-invasive equipment and consumables used in aesthetic skin health treatments. Edge’s leading product is the HydraFacial™ line of facial skin rejuvenation devices, which provide a non-invasive, multistep treatment in one sitting that delivers results without downtime or irritation. Edge has a current installed base of over 7,000 systems placed with dermatologists, plastic surgeons, and medical spas across 75 countries",
@@ -21,7 +21,7 @@ const data = [
     ]
   },
   {
-    id: 22,
+    id: 23,
     image: '23',
     title: "DW Healthcare Partners Invests in PRIME Education Inc",
     date: "November 9th, 2016",
@@ -32,13 +32,26 @@ const data = [
       "Jay Benear, MD, Co-Founder and Managing Director of DWHP, is a medical oncologist who has served in various leadership roles with US Oncology.  “When I was at US Oncology,” Jay stated, “we worked hard to create technology information exchanges.  We found early adopters, but struggled getting established clinicians to use these systems.  One of the interesting aspects of PRIME is its respect and adaptability for learning preferences – the dichotomy between traditional and tech-driven learning environments.  PRIME is an educational company, but it is really a learning and change catalyst.”",
       "Andrew Carragher, Co-Founder and Managing Director of DWHP, said, “PRIME’s use of practice data for healthcare improvement and applied educational innovation in systems-based care are fundamental game-changers, as proven again and again through their results published in medical literature. We look forward to contributing to PRIME’s continued growth in improving outcomes for patients, families, clinicians, and communities.”",
       "“The opportunity to partner with DWHP advances PRIME’s mission to support and sustain measurable change in health outcomes,” noted Kathleen Moreo, RN, BSN, BHSA, CCM, Cm, CMDS, Founder and CEO of PRIME. “Our goal is to continue impacting public health priorities and national healthcare initiatives through our learning solutions. We are energized by the vast expertise of the DWHP management team to assist us in these critically important objectives.”"
+     ]
+  },
+  {
+    id: 22,
+    title: "DW Healthcare Partners and Council Capital Invest in Caregiver",
+    date: "September, 2016",
+    location: "Dallas, Texas",
+    copy: [
+      "TORONTO - September, 2015 – DW Healthcare Partners (“DWHP”) and Council Capital (“Council”), both leading healthcare private equity investment firms with more than $1.0 billion of combined assets under management, are pleased to announce that they have invested in Caregiver, Inc. (“Caregiver” or the “Company”).",
+      "Headquartered in Dallas, TX, Caregiver is a premier provider of services for adults with intellectual and developmental disabilities (“I/DD”). “We are excited to be partnering with the team at Caregiver and continue to offer best in class services to our consumers,” said Aly Champsi, Principal at DWHP. “The Company has a strong track record and provides a vital service to the population it serves. We look forward to working with management on the next phase of growth for the business.”",
+      "About Caregiver",
+      "Caregiver is the leading provider of community-based services to the I/DD community in Texas.  The company provides a full continuum of services including supported living, residential habilitation, licensed homes, host-home services, day habilitation and in-home supports. The Company is recognized as a best-in-class provider within the large, community-based I/DD industry.",
+      "Caregiver’s mission is to provide the finest services, helping assist those they serve to enjoy productive, dignified and independent lives. To fulfill their mission, they respect individuals’ abilities and provide an innovative, loving and home-like environment, where individuals can experience life to the fullest and reach their potential.",   
     ]
   },
   {
     id: 21,
     image: '20',
     title: "Gabriel Becher Joins DW Healthcare Partners as Principal",
-    date: "August 8, 2016",
+    date: "August 8th, 2016",
     location: "Toronto, Ontario",
     copy: [
       "DW Healthcare Partners (DWHP), a healthcare-focused private equity firm, announced that Mr. Gabriel Becher, former Portfolio Manager with Alberta Investment Management Corporation (AIMCo), will join DWHP’s Investment Team as a Principal.",
