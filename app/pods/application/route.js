@@ -10,7 +10,7 @@ const data = [
   {
     id: 24,
     image: '21',
-    title: "DW Healthcare Partners and Linden Capital Partners announced today the joint acquisition of Edge Systems",
+    title: "DW Healthcare Partners and Linden Capital Partners announce the joint acquisition of Edge Systems",
     date: "December 1st, 2016",
     location: "Toronto, Ontario",
     copy: [
