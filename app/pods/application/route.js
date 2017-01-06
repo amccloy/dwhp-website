@@ -11,10 +11,10 @@ const data = [
     id: 25,
     image: '',
     title: "Aly Champsi of DW Healthcare Partners promoted to Managing Director",
-    date: "January 6th, 2017",
+    date: "January 5th, 2017",
     location: "Toronto, Ontario",
     copy: [
-      "TORONTO, ON, January 6, 2016 - DW Healthcare Partners (DWHP), a healthcare-focused private equity firm, is pleased to announce the promotion of Aly Champsi to Managing Director and Partner. “Since Aly’s arrival at our firm in 2014, he has been an integral part of our investment team.  We are excited to acknowledge his dedication and look forward to his continued leadership in this new position.” commented DWHP Founder and Managing Partner, Andrew Carragher.",
+      "TORONTO, ON, January 5, 2017 - DW Healthcare Partners (DWHP), a healthcare-focused private equity firm, is pleased to announce the promotion of Aly Champsi to Managing Director and Partner. “Since Aly’s arrival at our firm in 2014, he has been an integral part of our investment team.  We are excited to acknowledge his dedication and look forward to his continued leadership in this new position.” commented DWHP Founder and Managing Partner, Andrew Carragher.",
       "Aly Champsi will be responsible for overseeing due diligence, structuring and execution of investment opportunities from the DWHP Toronto office.  Aly will continue to serve on three boards in DWHP’s portfolio.",
       "Aly brings thirteen years of investment and transaction experience.  He started his career in investment banking at BMO Nesbitt Burns, followed by consulting at Mercer Management Consulting, and ten years of private equity experience at Clairvest Group and DW Healthcare Partners.  He earned his Honours Business Administration degree from the Richard Ivey School of Business at University of Western Ontario.",
     ]
