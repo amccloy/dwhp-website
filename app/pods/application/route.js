@@ -9,7 +9,7 @@ export default Ember.Route.extend({
 const data = [
  {
     id: 25,
-    image: '',
+    image: '25',
     title: "Aly Champsi of DW Healthcare Partners promoted to Managing Director",
     date: "January 5th, 2017",
     location: "Toronto, Ontario",
