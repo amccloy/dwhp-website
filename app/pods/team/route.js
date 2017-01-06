@@ -337,7 +337,7 @@ const data = [
     type: "investment",
     name: "Aly Champsi",
     image: "aly-champsi",
-    title: "Principal",
+    title: "Managing Director",
     location: "Toronto, Ontario",
     telephone: "416-583-2422",
     email: "aly@dwhp.com",
