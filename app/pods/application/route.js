@@ -7,7 +7,21 @@ export default Ember.Route.extend({
 });
 
 const data = [
- {
+  {
+    id: 26,
+    image: '23',
+    title: "Caroline Robinson Appointed Senior Director of Learning and Analytics of PRIME Education LLC",
+    date: "January 9th, 2017",
+    location: "Tamarac, Florida",
+    copy: [
+      "TAMARAC, Fla., Jan 09, 2017 – Prime Education LLC. (“PRIME”), a multi-awarded healthcare education company and DW Healthcare Partners portfolio company, are pleased to announce that Caroline Robinson, PhD, has been appointed Senior Director of Learning and Analytics.",
+      "Dr. Robinson joins PRIME from Genentech, a division of Roche, where she held the position of Senior Manager, Medical Education and Implementation Science Lead within the Learning & Clinical Integration group, in US Medical Affairs. Dr. Robinson is a medical sociologist with specialized expertise in the application of social science and research methodology to the design, execution and management of comprehensive learning, education and evaluation programs within healthcare. Dr. Robinson has professional experience in medical education, quality improvement, and professional learning and training, including holding past positions as Vice President of CE Outcomes, an independent healthcare research company, and Director of the Center for Healthcare Quality Improvement through Education at Medscape Education, a division of WebMD.",
+      "Dr. Robinson’s wealth of experience will help accelerate PRIME’s mission to inform and advance the science of learning and behavioral change through the use of structured real-world data. She will be responsible to lead the team in effectively planning and engaging with provider stakeholders and supporters of healthcare education with a goal to measurably improve care and communicate the value of the organization’s approaches and data products.",
+      "“I have had the pleasure of working alongside Dr. Robinson in several business and volunteer capacities over the past 10 years,” stated Kathleen Moreo, CEO of PRIME. “Her professional training, leadership acumen, and considerable background in program design and evaluation of interprofessional learning are well suited for PRIME’s educational solutions. As a respected and published researcher, she will be instrumental in advancing learning solutions to improve patient care and experiences in a data driven healthcare environment.”",
+      "Dr. Robinson earned a PhD in medical sociology and a graduate certificate in Gerontology from the University of Alabama at Birmingham. Recent achievements for Dr. Robinson include serving as Chair of the Alliance for Continuing Education in the Health Professions (ACEhp) 2016 Quality and Innovation Summit and as Chair of the Quality Committee, as well as receiving the 2017 ACEhp Distinguished Leadership Award.",
+    ]
+  },
+  {
     id: 25,
     image: '25',
     title: "Aly Champsi of DW Healthcare Partners promoted to Managing Director",
