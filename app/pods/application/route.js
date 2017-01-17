@@ -10,7 +10,7 @@ const data = [
   {
     id: 27,
     image: '24',
-    title: "Caroline Robinson Appointed Senior Director of Learning and Analytics of PRIME Education LLC",
+    title: "Mark Lashley Appointed Chief Executive Officer of Caregiver",
     date: "January 17th, 2017",
     location: "Fort Worth, Texas",
     copy: [
