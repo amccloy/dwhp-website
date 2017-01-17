@@ -724,7 +724,7 @@ const data = [
     type: "admin",
     name: "Molly Ryan",
     image: "molly-ryan",
-    title: "Office Manager, Toronto",
+    title: "Operations Manager, Toronto",
     location: "Toronto, Ontario",
     telephone: "416-583-2420",
     email: "mryan@dwhp.com",
