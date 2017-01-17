@@ -18,7 +18,13 @@ const data = [
       "Mark comes to Caregiver with over twenty years of healthcare and leadership experience, most recently as a Division President for Rural/Metro, the nation's second largest ambulance company. While with Rural/Metro, Mark helped lead the company through a major integration initiative ultimately improving employee engagement, patient care, financial results, and the successful sale of the company in 2015. “With years of experience in leading teams that serve others, we are confident that Mark will help Caregiver continue to provide the finest services to allow individuals we serve to enjoy productive, dignified, and fulfilling lives.” stated Andrew Carragher, Caregiver Board Member and Founder and Managing Partner of DW Healthcare Partners.",
       "Prior to Rural/Metro, Mark was a Vice President with ARAMARK Healthcare, where he led a region that included over sixty (60) hospitals throughout the southeast United States and the Virgin Islands. During Mark's leadership tenure, the Healthcare division experienced significant revenue growth, higher levels of employee and customer satisfaction and strong financial results.  Eric Keen, Caregiver Board Member and General Partner at Council Capital stated, “We are confident that Mark brings the right experience and leadership skills to lead the organization and to drive significant growth within and outside of Texas.”",
       "About Council Capital",
-      "Council Capital is a Nashville-based healthcare private equity firm with approximately $300 million of capital under management. Council Capital has a longstanding history of successfully partnering with healthcare companies that will benefit from its CEO Council business model, a distinct value proposition that offers exclusive access to a top-tier group of 34 industry-leading CEOs and several strategic healthcare investors. For more details, please visit our website at www.councilcapital.com.",
+      "Council Capital is a Nashville-based healthcare private equity firm with approximately $300 million of capital under management. Council Capital has a longstanding history of successfully partnering with healthcare companies that will benefit from its CEO Council business model, a distinct value proposition that offers exclusive access to a top-tier group of 34 industry-leading CEOs and several strategic healthcare investors.",
+    ],
+    learnMore: [
+      {
+        title: "For more information, please visit: ",
+        url: "http://councilcapital.com"
+      }
     ]
   }, 
   {
